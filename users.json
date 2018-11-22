@@ -1,0 +1,609 @@
+{"_id":{"$oid":"504f4ec00cf2dd3608e5c253"},"email":"hanna_liisa@hotmail.com","profile":{"goals":"Tiukkapeppuinen triatleetti","synopsis":"Löytöretkeilijä","resthr":50,"maxhr":195,"aerk":160,"anaerk":175},"username":"Peppi"}
+{"_id":{"$oid":"504f9f910cf2e3003049cd00"},"email":"husu.heikki@gmail.com","profile":{"goals":"","synopsis":"","resthr":32,"maxhr":198,"aerk":null,"anaerk":null},"username":"Hopo"}
+{"_id":{"$oid":"504fa1c60cf2013169f41cc2"},"email":"ivaara@hotmail.com","profile":{"goals":"","synopsis":"Vauhti korjaa virheet","resthr":48,"maxhr":183,"aerk":138,"anaerk":164},"username":"Geoeläin"}
+{"_id":{"$oid":"504fa89e0cf204ed1a250d30"},"email":"jarirosti@gmail.com","profile":{"goals":"","synopsis":"","resthr":48,"maxhr":188,"aerk":153,"anaerk":166},"username":"Jörö"}
+{"_id":{"$oid":"505053880cf2ce86866bf6a0"},"email":"ilkka@lainema.fi","profile":{"goals":"Selvitä elämästä hengissä","synopsis":"Sodan jälkeen syntynyt pullamössöpoika","resthr":48,"maxhr":172,"aerk":135,"anaerk":155},"username":"Lanttu"}
+{"_id":{"$oid":"5050bd280cf2220acf4c5261"},"email":"eskotolo@wippies.fi","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"ese"}
+{"_id":{"$oid":"505c41980cf2a84b24cda386"},"email":"mirka.lahti@magus.fi","profile":{"goals":"50-vuotiaaksi kuntoon","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"username":"Hähi"}
+{"_id":{"$oid":"505edaf60cf210f10e61593e"},"email":"jukka.nokelainen@gmail.com","profile":{"goals":"","synopsis":"","resthr":37,"maxhr":176,"aerk":134,"anaerk":160},"username":"Jukkis"}
+{"_id":{"$oid":"5060937f0cf27f1990e3bed0"},"email":"jhappone@gmail.com","profile":{"goals":"","synopsis":"Good training and bad training look exactly the same onpaper","resthr":48,"maxhr":180,"aerk":null,"anaerk":null},"username":"JH"}
+{"_id":{"$oid":"506190830cf25cb8b18c9669"},"email":"niemiset@surffi.net","profile":{"goals":"","synopsis":"Voitto päivässä pitää mielen virkeänä!","resthr":42,"maxhr":192,"aerk":142,"anaerk":158},"username":"Pumppi60"}
+{"_id":{"$oid":"5061919f0cf27d03cf33aa08"},"email":"mika.talvisilta@gmail.com","profile":{"goals":"","synopsis":"Onnellisen näköinen kaljupää","resthr":47,"maxhr":186,"aerk":136,"anaerk":159},"username":"KapteeniSolisluu"}
+{"_id":{"$oid":"5061fec60cf2ac686bff0ea4"},"email":"js.saarinen@gmail.com","profile":{"goals":"Oppia juoksemaan","synopsis":"Lumen,jään,loskan,asvaltin,hiekan,tossujen,itseni kulutusta","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"saarja"}
+{"_id":{"$oid":"5064a9950cf2780197b9ba2e"},"email":"psalmi@iki.fi","profile":{"goals":"","synopsis":"","resthr":53,"maxhr":185,"aerk":null,"anaerk":null},"username":"plouh"}
+{"_id":{"$oid":"508ab1bb0cf272a92e0504a1"},"email":"Markku.Haapaniemi@winnova.fi","profile":{"resthr":42,"maxhr":192,"aerk":154,"anaerk":178},"username":"Haapis"}
+{"_id":{"$oid":"508ada350cf2239d4a76bafb"},"email":"tsovijar@gmail.com","profile":{"resthr":50,"maxhr":207,"aerk":170,"anaerk":185},"username":"Tuomas"}
+{"_id":{"$oid":"50916c000cf25d461c98858c"},"email":"ppaally1@welho.com","profile":{"goals":"","synopsis":"Perusterve","resthr":40,"maxhr":186,"aerk":155,"anaerk":169},"username":"Pasi_P"}
+{"_id":{"$oid":"5091709a0cf2a25d87687c64"},"email":"merja.yliharsila@kotiportti.fi","profile":{"goals":"Korkealla","synopsis":"Huipulla tuuloo! ","resthr":60,"maxhr":178,"aerk":null,"anaerk":null},"username":"RautaReetta"}
+{"_id":{"$oid":"50924cb00cf28fd582341df8"},"email":"jouni.holopainen@sweco.fi","profile":{"goals":"","synopsis":"Positiivista ajattelua jo vuodesta 1961...","resthr":42,"maxhr":192,"aerk":145,"anaerk":175},"username":"Holle"}
+{"_id":{"$oid":"5092765a0cf29c25b2ca1e9a"},"email":"Pirjo.Florstrom@valio.fi","profile":{"goals":"Keskimäärin tunti liikuntaa joka päivä vuonna 2014","synopsis":"Ei hyväkään miltään näytä jos ei ole huonoja joukossa","resthr":54,"maxhr":182,"aerk":138,"anaerk":158},"username":"Emo"}
+{"_id":{"$oid":"5092dc860cf2b8fc10e6ae8a"},"email":"jarir.osti@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"admin"}
+{"_id":{"$oid":"5092e16c0cf2b8fc10e6ae8e"},"email":"lummant@gmail.com","profile":{"resthr":42,"maxhr":206,"aerk":null,"anaerk":null},"username":"anatooli"}
+{"_id":{"$oid":"509417e50cf2b8fc10e6aecd"},"email":"niilosmc@gmail.com","profile":{"goals":"","synopsis":"","resthr":50,"maxhr":185,"aerk":null,"anaerk":null},"username":"niilos mc"}
+{"_id":{"$oid":"5095400d0cf2b8fc10e6aee9"},"email":"ekstromjarl@hotmail.com","profile":{"synopsis":"","resthr":58,"maxhr":180,"aerk":120,"anaerk":140},"username":"ejex"}
+{"_id":{"$oid":"5096657c0cf20041d8a300df"},"email":"maija.virta@helen.fi","profile":{"goals":"","synopsis":"Hyvä hyvä hyvä!!!","resthr":44,"maxhr":177,"aerk":135,"anaerk":164},"username":"maja"}
+{"_id":{"$oid":"509692740cf20041d8a30110"},"email":"eeva_maija84@hotmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Ewanator"}
+{"_id":{"$oid":"5097ff490cf2f1e49b42e123"},"email":"riina.linna@gmail.com","profile":{"resthr":49,"maxhr":194,"aerk":null,"anaerk":null},"username":"Triina"}
+{"_id":{"$oid":"509aa05c0cf2ed545485b078"},"email":"arvo.laineoja@dnainternet.net","profile":{"resthr":50,"maxhr":150,"aerk":null,"anaerk":null},"username":"poko"}
+{"_id":{"$oid":"509bd0f00cf2211e0e6a41c3"},"email":"maijalainema@gmail.com","profile":{"goals":"","synopsis":"Arkiliikunnan ammattilainen","resthr":52,"maxhr":182,"aerk":null,"anaerk":null},"username":"mala"}
+{"_id":{"$oid":"50a41a9a0cf23e30a5af38fb"},"email":"koivu.hanna@gmail.com","profile":{"resthr":50,"maxhr":204,"aerk":null,"anaerk":null},"username":"jarmila"}
+{"_id":{"$oid":"50a519bf0cf23e30a5af3905"},"email":"tapiojuhani.koskela@gmail.com","profile":{"goals":"","synopsis":"Vanhassakin repussa voi olla hyvät eväät!","resthr":56,"maxhr":175,"aerk":null,"anaerk":null},"username":"Tapsajussi"}
+{"_id":{"$oid":"50a5f5f60cf23e30a5af3913"},"email":"mari.pajala@gmail.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":211,"aerk":166,"anaerk":185},"username":"MariP"}
+{"_id":{"$oid":"50a774310cf23e30a5af3923"},"email":"tatteus@suomi24.fi","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":176,"aerk":null,"anaerk":null},"username":"Tatteus"}
+{"_id":{"$oid":"50a89f360cf23e30a5af394f"},"email":"katriinasahala@hotmail.com","profile":{"resthr":55,"maxhr":197,"aerk":null,"anaerk":null},"username":"dragon14"}
+{"_id":{"$oid":"50a8c50b0cf23e30a5af3955"},"email":"savilampi.ville@gmail.com","profile":{"goals":"Toistaa nuorena hurjana juostut maraton alle 3,5h ja 100km.","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"username":"Duckbill"}
+{"_id":{"$oid":"50abae0a0cf22aa682234b47"},"email":"saijaokker@hotmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"sakkeus"}
+{"_id":{"$oid":"50abc0c60cf22aa682234b48"},"email":"mika.kortesmaa@luukku.com","profile":{"resthr":42,"maxhr":188,"aerk":null,"anaerk":null},"username":"miguel horsehead"}
+{"_id":{"$oid":"50b1b2ec0cf2c5e541043c23"},"email":"pentti.savilampi@gmail.com","profile":{"resthr":60,"maxhr":180,"aerk":140,"anaerk":160},"username":"kalervo1"}
+{"_id":{"$oid":"50b501e40cf2c5e541043c54"},"email":"kirsi.louhelainen@gmail.com","profile":{"goals":"","synopsis":"If it hurts, shut your eyes and think of Chrissie Wellington","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"kriish"}
+{"_id":{"$oid":"50b9c6a90cf2ff23eaebc830"},"email":"hatapsa@hotmail.com","profile":{"resthr":55,"maxhr":192,"aerk":null,"anaerk":null},"username":"metsanpoika"}
+{"_id":{"$oid":"50bb6eb20cf2ff23eaebc84a"},"email":"kuusi.sami@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Pontus"}
+{"_id":{"$oid":"50be0be40cf216066255da0a"},"email":"jaana.thorstrom@turku.fi","profile":{"goals":"","synopsis":"Rauhassa eteenpäin, ilolla","resthr":45,"maxhr":181,"aerk":148,"anaerk":167},"username":"jatossu"}
+{"_id":{"$oid":"50bf28d40cf2c83c69a60e53"},"email":"mari.k.toivonen@gmail.com","profile":{"resthr":37,"maxhr":170,"aerk":135,"anaerk":153},"username":"Marit"}
+{"_id":{"$oid":"50c4dcac0cf2490a2b1bae73"},"email":"tuula.uusitalo@rovaniemi.fi","profile":{"goals":"","synopsis":"","resthr":40,"maxhr":176,"aerk":150,"anaerk":165},"username":"TuulaUu"}
+{"_id":{"$oid":"50c622520cf220460b25e409"},"email":"timo.rotko@kolumbus.fi","profile":{"goals":"","synopsis":"","resthr":60,"maxhr":180,"aerk":null,"anaerk":null},"username":"ExTon"}
+{"_id":{"$oid":"50c9fcad0cf25154dad09489"},"email":"juhahietanen@elisanet.fi","profile":{"synopsis":"Tavoitteellinen nautiskelija","resthr":43,"maxhr":183,"aerk":null,"anaerk":null},"username":"Hietsu"}
+{"_id":{"$oid":"50ca2aff0cf25154dad09753"},"email":"hannele.kojo@luukku.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"hanne k"}
+{"_id":{"$oid":"50cd90830cf2e2c698226f74"},"email":"tyynehulkko@hotmail.com","profile":{"goals":"","synopsis":"sohvaperuna","resthr":42,"maxhr":192,"aerk":134,"anaerk":156},"username":"kirva"}
+{"_id":{"$oid":"50cd9f7d0cf2e2c698226f7d"},"email":"ulla.inget@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Sehnsucht"}
+{"_id":{"$oid":"50d0a3120cf2e2c698227f56"},"email":"forssan.ruosteenesto@surffi.net","profile":{"goals":"Aina vaan paremmin menee","synopsis":"Jokainen askel on kehitystä","resthr":45,"maxhr":164,"aerk":128,"anaerk":147},"username":"Massa-Matti"}
+{"_id":{"$oid":"50d1c1d10cf2e2c698227f6b"},"email":"helilehtinen0@gmail.com","profile":{"goals":"","synopsis":"Run Spin Gym All Favourites","resthr":42,"maxhr":182,"aerk":null,"anaerk":null},"username":"Hazel"}
+{"_id":{"$oid":"50d204940cf2e2c698227f77"},"email":"essi.jarvinen1@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Esteri"}
+{"_id":{"$oid":"50d2a5340cf2e2c698227f84"},"email":"juha.koivu@valkeakoski.fi","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"rampako"}
+{"_id":{"$oid":"50d329ed0cf2e2c698228a62"},"email":"merjahaneli@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"meusi"}
+{"_id":{"$oid":"50d336110cf2e2c698228ef9"},"email":"mervi.koivu@pp.inet.fi","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"mummi"}
+{"_id":{"$oid":"50d338900cf2e2c698228efc"},"email":"pirjo.kuittinen5@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"pirjo.kuittinen"}
+{"_id":{"$oid":"50d355410cf2e2c698228efd"},"email":"saunapalo@gmail.com","profile":{"goals":"pysyä terveenä","synopsis":"Luut on luotu liikkumaan","resthr":42,"maxhr":189,"aerk":144,"anaerk":174},"username":"Epunäiti"}
+{"_id":{"$oid":"50d418830cf2e2c698229539"},"email":"martas@jippii.fi","profile":{"synopsis":"\"puhu mitä puhut mut juoksemista älä lopeta\"","resthr":54,"maxhr":181,"aerk":135,"anaerk":160},"username":"Tasku67"}
+{"_id":{"$oid":"50d424c70cf2e2c6982296f6"},"email":"artturi.niittynen@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Turri"}
+{"_id":{"$oid":"50d552fa0cf2e2c698229d57"},"email":"ritaatti@hotmail.com","profile":{"synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"ritaatti"}
+{"_id":{"$oid":"50d8c4430cf2e2c69822a473"},"email":"jaanaandrews@hotmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"LauraIsabella"}
+{"_id":{"$oid":"50d9b51f0cf2e2c69822a4a7"},"email":"jouni.makela@iki.fi","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"kalman"}
+{"_id":{"$oid":"50db5cfc0cf23a6d01ae88f2"},"email":"jari.tomppo@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"X-Caliber"}
+{"_id":{"$oid":"50dc0be00cf23a6d01ae8900"},"email":"jyrki.kukko@gmail.com","profile":{"goals":"","synopsis":"","resthr":38,"maxhr":179,"aerk":null,"anaerk":null},"username":"jyrku"}
+{"_id":{"$oid":"50dc39850cf23a6d01ae8908"},"email":"olkka.nokka@turku.fi","profile":{"synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"ile"}
+{"_id":{"$oid":"50dc85c90cf23a6d01ae8915"},"email":"annina.arola@valkeakoski.fi","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Anttu"}
+{"_id":{"$oid":"50dcabed0cf23a6d01ae8b52"},"email":"mikko.juh@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"muhola"}
+{"_id":{"$oid":"50dcba310cf23a6d01ae8b58"},"email":"mika.saharinen@luukku.com","profile":{"synopsis":"Aina täysillä","resthr":53,"maxhr":177,"aerk":140,"anaerk":160},"username":"sakke 2"}
+{"_id":{"$oid":"50dd19fd0cf2a231053ebfe7"},"email":"korpekka@ovi.com","profile":{"synopsis":"","resthr":52,"maxhr":187,"aerk":null,"anaerk":null},"username":"erz"}
+{"_id":{"$oid":"50ddc7000cf2a231053ec8fb"},"email":"jennirinne@hotmail.com","profile":{"synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"jennirinne"}
+{"_id":{"$oid":"50ddf0700cf2a231053ecd6d"},"email":"jryyppo@gmail.com","profile":{"goals":"","synopsis":"Metsäs eka metsäs vika","resthr":42,"maxhr":190,"aerk":160,"anaerk":175},"username":"Jagge"}
+{"_id":{"$oid":"50e0182a0cf2a231053ecdf8"},"email":"sirpa.vuoti@kotinet.com","profile":{"synopsis":"Hitaasti, mutta perille","resthr":55,"maxhr":176,"aerk":138,"anaerk":163},"username":"Sirpakka"}
+{"_id":{"$oid":"50e01bbe0cf2a231053ecdf9"},"email":"mana.sidoroff@gmail.com","profile":{"goals":"Helsinki City Marathon 2018 ja ennätys.","synopsis":"Onnea ei voi ostaa, mutta sen voi juosta.","resthr":42,"maxhr":184,"aerk":null,"anaerk":null},"username":"mana"}
+{"_id":{"$oid":"50e054600cf2a231053ed070"},"email":"pirjo.venetmaki@gmail.com","profile":{"synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"username":"Tiiti54"}
+{"_id":{"$oid":"50e09fa10cf2a231053ed5bd"},"email":"jokke.k@iki.fi","profile":{"synopsis":"","resthr":48,"maxhr":186,"aerk":null,"anaerk":null},"username":"jokkek"}
+{"_id":{"$oid":"50e1e1980cf23a6d5f7461ac"},"email":"pentti.takkinen@luukku.com","profile":{"goals":"","synopsis":"Jos olisin päivääkin nuorempi...","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"peta"}
+{"_id":{"$oid":"50e21cb70cf23a6d5f74670d"},"email":"heikkiala@gmail.com","profile":{"goals":"","synopsis":"","resthr":38,"maxhr":206,"aerk":163,"anaerk":189},"username":"Hejkki"}
+{"_id":{"$oid":"50e2ae210cf23a6d5f74671d"},"email":"lauri.palva@aalto.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Larry"}
+{"_id":{"$oid":"50e2eec70cf23a6d5f746d76"},"email":"petri.hekkala@gmail.com","profile":{"goals":"","synopsis":"","resthr":35,"maxhr":180,"aerk":null,"anaerk":null},"username":"pietro"}
+{"_id":{"$oid":"50e2f4f10cf23a6d5f746ed5"},"email":"hlaurila@gmail.com","profile":{"goals":"","synopsis":"","resthr":48,"maxhr":183,"aerk":145,"anaerk":null},"username":"hannikainen"}
+{"_id":{"$oid":"50e308370cf23a6d5f747212"},"email":"sanna.kullberg@edu.hel.fi","profile":{"goals":"","synopsis":"Iloinen mieli korvaa puuttuvan älyn.","resthr":42,"maxhr":178,"aerk":148,"anaerk":164},"username":"SannaK"}
+{"_id":{"$oid":"50e314700cf23a6d5f747218"},"email":"mikko.puolitaival@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Puolipolvi"}
+{"_id":{"$oid":"50e32dbc0cf23a6d5f747238"},"email":"hanna.putkuri@kolumbus.fi","profile":{"goals":"","synopsis":"P = F • v","resthr":50,"maxhr":191,"aerk":141,"anaerk":163},"username":"Lynx"}
+{"_id":{"$oid":"50e334440cf23a6d5f74723a"},"email":"petri.sorvisto@gmail.com","profile":{"synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Sope"}
+{"_id":{"$oid":"50e34fa90cf23a6d5f74724c"},"email":"herba63@gmail.com","profile":{"synopsis":"Kunhan vain","resthr":55,"maxhr":180,"aerk":null,"anaerk":null},"username":"herba63"}
+{"_id":{"$oid":"50e352650cf23a6d5f74724e"},"email":"mikkoln@yahoo.co.uk","profile":{"goals":"","synopsis":"","resthr":45,"maxhr":191,"aerk":null,"anaerk":null},"username":"miklai"}
+{"_id":{"$oid":"50e3ed120cf2e592f81753f6"},"email":"seppo.k.jokinen@gmail.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":160,"aerk":null,"anaerk":null},"username":"ski"}
+{"_id":{"$oid":"50e4782e0cf2e592f8175a13"},"email":"jani.seppala@kotikone.fi","profile":{"goals":"","synopsis":"Keep calm and throw","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Osku"}
+{"_id":{"$oid":"50e47a590cf2e592f8175a14"},"email":"kokkonen.joni@gmail.com","profile":{"goals":"","synopsis":"Bostonia kohti! :)","resthr":50,"maxhr":192,"aerk":156,"anaerk":179},"username":"rauman"}
+{"_id":{"$oid":"50e499cd0cf2e592f8175cfd"},"email":"nina.saarinen@windowslive.com","profile":{"synopsis":"reippailija","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"sanina"}
+{"_id":{"$oid":"50e4a6a70cf2e592f8175d27"},"email":"vuorenpaat@kolumbus.fi","profile":{"goals":"","synopsis":"Ei se vauhti vaan liike","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Sissi von Vuorenpeikko"}
+{"_id":{"$oid":"50e556a10cf2e592f8175d50"},"email":"matti.vasara@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Mike Hammer"}
+{"_id":{"$oid":"50e560e50cf2e592f8176796"},"email":"minna.karppinen@avi.fi","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"emkoo"}
+{"_id":{"$oid":"50e5c4530cf2e592f81767b5"},"email":"olavi.ojansivu@valkeakoski.fi","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"ousi"}
+{"_id":{"$oid":"50ea7d9c0cf2e592f81770e1"},"email":"niinasofia@luukku.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Niina"}
+{"_id":{"$oid":"50ead8310cf2e592f8177110"},"email":"minnabm@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Napsu"}
+{"_id":{"$oid":"50eb00440cf2e592f8177136"},"email":"Tatti6@suomi24.fi","profile":{"synopsis":"","resthr":58,"maxhr":141,"aerk":null,"anaerk":null},"username":"Leena51"}
+{"_id":{"$oid":"50eb0aaa0cf2e592f817713c"},"email":"sarifranssila@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Fransa"}
+{"_id":{"$oid":"50ebcb220cf2e592f8177199"},"email":"petrikkoivunen@gmail.com","profile":{"synopsis":"","resthr":54,"maxhr":198,"aerk":null,"anaerk":null},"username":"puh-pete"}
+{"_id":{"$oid":"50f029bb0cf2e96f2f5cc7fc"},"email":"marika.punola@windowslive.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"HiiNokka"}
+{"_id":{"$oid":"50f40fa10cf2e96f2f5cc95f"},"email":"Ansa.lehtio@saunalahti.fi","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Gemssi"}
+{"_id":{"$oid":"50f5aa5f0cf2e96f2f5cca55"},"email":"heidi.ju@gmail.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":215,"aerk":170,"anaerk":190},"username":"Heidi"}
+{"_id":{"$oid":"50f80dd90cf2d2d918f82cd9"},"email":"matsenator@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"Rivado"}
+{"_id":{"$oid":"50fb2b2a0cf203070b75fbe4"},"email":"j.a.rirosti@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"zxcv"}
+{"_id":{"$oid":"5101377a0cf27a1b5a956b64"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"seppo_moilanen@hotmail.com","username":"Seppo"}
+{"_id":{"$oid":"510322210cf299120065a177"},"email":"jari.rosti@gmail.com","profile":{"goals":"","synopsis":"Asuu vastarannalla","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"username":"Kiiski"}
+{"_id":{"$oid":"510367dc0cf299120065a179"},"email":"uusitalo.matti@gmail.com","profile":{"goals":"Ennätykset remonttiin","synopsis":"Pelko pois","resthr":46,"maxhr":196,"aerk":168,"anaerk":185},"username":"jogo3000"}
+{"_id":{"$oid":"510368a20cf299120065a17a"},"email":"juha_81@welho.com","profile":{"goals":"Olla parempi ihminen","synopsis":"Yleisjuoksija","resthr":40,"maxhr":200,"aerk":150,"anaerk":178},"username":"-James-"}
+{"_id":{"$oid":"510379ac0cf299120065a5de"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"aarhennessy@gmail.com","username":"riikuli"}
+{"_id":{"$oid":"51037b330cf299120065a5e0"},"email":"isi@saunalahti.fi","profile":{"goals":"E24h 2013, Suomi-Juoksu 2013, Laugavegur Ultra 2013","synopsis":"","resthr":38,"maxhr":187,"aerk":148,"anaerk":173},"username":"isi"}
+{"_id":{"$oid":"51037d1a0cf299120065a5e4"},"email":"Jupekont@gmail.com","profile":{"goals":"","synopsis":"Lievästi ylipainoinen yleisjuoksija","resthr":40,"maxhr":187,"aerk":null,"anaerk":null},"username":"Juupe"}
+{"_id":{"$oid":"51037d4d0cf299120065a5e5"},"email":"samivalima@gmail.com","profile":{"goals":"Juoksusta nauttiminen. Aikuisten SM-kisat","synopsis":"","resthr":45,"maxhr":null,"aerk":null,"anaerk":null},"username":"sava"}
+{"_id":{"$oid":"5103807d0cf299120065a96a"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"marko.ilvonen@otavamedia.fi","username":"sammatti"}
+{"_id":{"$oid":"5103e7ad0cf299120065a991"},"email":"juha.myllyla@gmail.com","profile":{"goals":"Pidetään kivaa juosten ja pysytään ehjänä.","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"flammee"}
+{"_id":{"$oid":"5103fede0cf299120065a99e"},"email":"rjrautio@gmail.com","profile":{"goals":"Eteenpäin","synopsis":"Kunhan nyt ees jotain","resthr":52,"maxhr":180,"aerk":142,"anaerk":164},"username":"rjr"}
+{"_id":{"$oid":"51041c060cf299120065a9b8"},"email":"p.kytomaki@gmail.com","profile":{"goals":"","synopsis":"","resthr":49,"maxhr":155,"aerk":118,"anaerk":136},"username":"Peksu"}
+{"_id":{"$oid":"510422b90cf299120065a9bf"},"email":"jari.maatta@elisanet.fi","profile":{"goals":"Nautiskelu (ja 24h +200 km, ja muuta kivaa)","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"jamaatta"}
+{"_id":{"$oid":"510589dc0cf23757c4dd8180"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"erpait@utu.fi","username":"nainen"}
+{"_id":{"$oid":"5106f8100cf23757c4dd81fd"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"mikko@team226.net","username":"Rookie"}
+{"_id":{"$oid":"51076ac00cf23757c4dd81ff"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"eekukopo@gmail.com","username":"Tetradynamia"}
+{"_id":{"$oid":"510773780cf23757c4dd8201"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"soili.kosonen@hotmail.com","username":"soili"}
+{"_id":{"$oid":"510782960cf23757c4dd8207"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"met@vakio.com","username":"met"}
+{"_id":{"$oid":"510822f30cf23757c4dd8485"},"email":"jtg75@hotmail.com","profile":{"goals":"","synopsis":"","resthr":38,"maxhr":202,"aerk":162,"anaerk":182},"username":"JTG"}
+{"_id":{"$oid":"510c44b00cf26bb0d101e424"},"email":"tktl@hotmail.com","profile":{"goals":"Monipuolinen hölmöily","synopsis":"Vittuilu on välittämistä","resthr":42,"maxhr":188,"aerk":151,"anaerk":167},"username":"Elwood"}
+{"_id":{"$oid":"510eb7c40cf26bb0d101e54e"},"email":"erkkilaitila@gmail.com","profile":{"goals":"Mitalisijoja maratonilta","synopsis":"Veteraani mailista maratoniin","resthr":39,"maxhr":175,"aerk":133,"anaerk":152},"username":"Erkki Laitila"}
+{"_id":{"$oid":"510f82e70cf26bb0d101e582"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"juha@sadeharju.org","username":"jsade"}
+{"_id":{"$oid":"511144700cf26bb0d101e5fd"},"email":"saavape@yahoo.com","profile":{"goals":"","synopsis":"","resthr":36,"maxhr":null,"aerk":null,"anaerk":null},"username":"saavape"}
+{"_id":{"$oid":"511198fc0cf26bb0d101e624"},"email":"olentoinen@hotmail.com","profile":{"goals":"Kunpa joku päivä vielä osaisin juosta","synopsis":"Mitä lujempaa, sitä lujempaa","resthr":55,"maxhr":192,"aerk":null,"anaerk":null},"username":"BirdiBlu"}
+{"_id":{"$oid":"5113e62c0cf26bb0d101e6ca"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"tiina.juntu@gmail.com","username":"tiinu"}
+{"_id":{"$oid":"5116472e0cf26bb0d101e758"},"email":"teemu.planting1@luukku.com","profile":{"goals":"Mara 2.39","synopsis":"Ehtiihän tuota","resthr":42,"maxhr":188,"aerk":150,"anaerk":170},"username":"Mensonge"}
+{"_id":{"$oid":"5117f8b90cf26bb0d101e9fe"},"email":"paivikoski@netikka.fi","profile":{"goals":"","synopsis":"","resthr":47,"maxhr":198,"aerk":158,"anaerk":180},"username":"Päivi"}
+{"_id":{"$oid":"511801a60cf26bb0d101ea12"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"tomminietosjarvi@gmail.com","username":"sipoonkorvensusi"}
+{"_id":{"$oid":"512339f40cf25154efa7f67a"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"johan.engberg@jippii.fi","username":"Julle"}
+{"_id":{"$oid":"512b63d90cf25154efa7f915"},"email":"timo.villberg@valkeakoski.fi","profile":{"goals":"","synopsis":"Liiku tai...","resthr":72,"maxhr":142,"aerk":null,"anaerk":null},"username":"Vilivilperi"}
+{"_id":{"$oid":"514213220cf25154efa7ff9c"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"lyyliarosusi@gmail.com","username":"lyylinen"}
+{"_id":{"$oid":"5144bc3c0cf2aff78f63a740"},"email":"hopoposti@luukku.com","profile":{"goals":"","synopsis":"parempi lenkki päivässä kuin","resthr":58,"maxhr":186,"aerk":null,"anaerk":null},"username":"wicca"}
+{"_id":{"$oid":"514db1b40cf2490a3663c24a"},"email":"ari-p@dnainternet.net","profile":{"goals":"","synopsis":"","resthr":55,"maxhr":179,"aerk":null,"anaerk":null},"username":"Koskaanenjuokse"}
+{"_id":{"$oid":"515597e10cf23be7b1a498e6"},"email":"jukkat.rusanen@gmail.com","profile":{"goals":"Maraton 3.20","synopsis":"Ce la vie","resthr":50,"maxhr":170,"aerk":null,"anaerk":null},"username":"Kokkis"}
+{"_id":{"$oid":"51597d5b0cf23be7b1a49a31"},"email":"Susannekl@suomi24.fi","profile":{"goals":"","synopsis":"","resthr":57,"maxhr":189,"aerk":null,"anaerk":null},"username":"Suski"}
+{"_id":{"$oid":"516080b30cf2bc98b45a4aef"},"email":"tero0205@gmail.com","profile":{"goals":"","synopsis":"Telakka on vahvin lajini","resthr":46,"maxhr":190,"aerk":null,"anaerk":null},"username":"rote"}
+{"_id":{"$oid":"51695b750cf2bc98b45a4d37"},"email":"jutta_s7@netti.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Justiina_"}
+{"_id":{"$oid":"516960c00cf2bc98b45a4d39"},"email":"eijasairanen75@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"minmar"}
+{"_id":{"$oid":"516bf1a20cf2f89d8a550895"},"email":"kristiina.drews@gmail.com","profile":{"goals":"Päästä punnertamalla Mäksyn altaasta vielä satavuotiaana.","synopsis":"Aikansa kutakin.","resthr":70,"maxhr":null,"aerk":null,"anaerk":null},"username":"Keura"}
+{"_id":{"$oid":"516d49a20cf2f89d8a550905"},"email":"kati.oikarinen@valio.fi","profile":{"goals":"Juosta","synopsis":"Takas lähtöruutuun","resthr":45,"maxhr":168,"aerk":141,"anaerk":157},"username":"oikakati"}
+{"_id":{"$oid":"516ef6940cf2f89d8a5509c9"},"email":"nasisil@msn.com","profile":{"goals":"","synopsis":"","resthr":57,"maxhr":191,"aerk":142,"anaerk":null},"username":"Silu"}
+{"_id":{"$oid":"517c28fa0cf2704b626214cb"},"email":"minna.myllyoja@helen.fi","profile":{"goals":"","synopsis":"Nauti tekemisestä, iloitse onnistumisesta!","resthr":48,"maxhr":188,"aerk":155,"anaerk":171},"username":"Kerttu"}
+{"_id":{"$oid":"517e46a70cf2704b62621585"},"email":"repuusi@hotmail.com","profile":{"goals":"Maraton kävelemällä","synopsis":"Kuha liikkuu","resthr":60,"maxhr":170,"aerk":null,"anaerk":null},"username":"Nandi"}
+{"_id":{"$oid":"517fac710cf24ab133a920cb"},"email":"mikaelheerman@gmail.com","profile":{"goals":"Monipuolista, herkkää ja nautinnollista","synopsis":"Kestävyysurheilun sekakäyttäjä","resthr":38,"maxhr":185,"aerk":140,"anaerk":160},"username":"Pohjan Tähti"}
+{"_id":{"$oid":"518d40bf0cf220460d4c7ffa"},"email":"aajaakkola@gmail.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":212,"aerk":null,"anaerk":null},"username":"arddy"}
+{"_id":{"$oid":"518de97f0cf220460d4c800f"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"amuurinen@hotmail.com","username":"Ansku"}
+{"_id":{"$oid":"51934d820cf22d137cf175d5"},"email":"johtone2@welho.com","profile":{"goals":"ultrat","synopsis":"Easy living","resthr":55,"maxhr":192,"aerk":155,"anaerk":175},"username":"jamo57"}
+{"_id":{"$oid":"5197cfdc0cf22d137cf17723"},"email":"tero.forsberg@runhigh.fi","profile":{"goals":"","synopsis":"Too much is never enough","resthr":null,"maxhr":188,"aerk":134,"anaerk":164},"username":"Tero"}
+{"_id":{"$oid":"519db3c20cf2530ea2104847"},"email":"juha.hihnala@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Junnu"}
+{"_id":{"$oid":"51a4532d0cf2530ea2104ab0"},"email":"tuula.hartman@vamk.fi","profile":{"goals":"Maraton alle 4 h","synopsis":"","resthr":42,"maxhr":185,"aerk":155,"anaerk":175},"username":"Tuula"}
+{"_id":{"$oid":"51a47bbd0cf2530ea2104ac1"},"email":"miccojarvinen@gmail.com","profile":{"goals":"kuntoon 2014...","synopsis":"Hyvä kunto, parempi mieli","resthr":34,"maxhr":188,"aerk":146,"anaerk":168},"username":"jaerae"}
+{"_id":{"$oid":"51a730a50cf2530ea2104bae"},"email":"pellervo.kassi@gmail.com","profile":{"goals":"","synopsis":"","resthr":48,"maxhr":195,"aerk":null,"anaerk":null},"username":"pellervo"}
+{"_id":{"$oid":"51a733e80cf2530ea2104baf"},"email":"taijaok@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"TaijaO"}
+{"_id":{"$oid":"51ab8d030cf2530ea2104d30"},"email":"sariheerman@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Imatran Voima"}
+{"_id":{"$oid":"51ade6640cf2530ea2104e04"},"email":"an@live.fi","profile":{"goals":"Maraton alle 2.20","synopsis":"Life is running.","resthr":32,"maxhr":200,"aerk":null,"anaerk":null},"username":"AkiNummela"}
+{"_id":{"$oid":"51af09230cf2530ea2104e89"},"email":"jorma.kivela@gmail.com","profile":{"goals":"","synopsis":"","resthr":44,"maxhr":200,"aerk":154,"anaerk":183},"username":"Jokiv"}
+{"_id":{"$oid":"51b03b7e0cf2530ea2104ee5"},"email":"satu.ronnberg@eralaskenta.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"20660"}
+{"_id":{"$oid":"51b377020cf2530ea2105023"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"kaisa.unkila@orionpharma.com","username":"Aliknu"}
+{"_id":{"$oid":"51bb5d4f0cf2530ea210529a"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"katariina.manni@surffi.net","username":"kata"}
+{"_id":{"$oid":"51bde20f0cf2530ea2105367"},"email":"jhvainio@netti.fi","profile":{"goals":"","synopsis":"","resthr":55,"maxhr":175,"aerk":null,"anaerk":null},"username":"berniboy"}
+{"_id":{"$oid":"51bf5c8c0cf2530ea210541d"},"email":"mluusalo@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"BoneS"}
+{"_id":{"$oid":"51bfe0390cf2530ea2105433"},"email":"oskari.pirttikoski@reaktor.fi","profile":{"goals":"Nuuksio classic","synopsis":"","resthr":58,"maxhr":195,"aerk":164,"anaerk":184},"username":"oskuman"}
+{"_id":{"$oid":"51bfe3470cf2530ea2105434"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"seppok9@gmail.com","username":"T-Pot"}
+{"_id":{"$oid":"51d025350cf26325e86437c0"},"email":"jesse.ojansivu@outlook.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":148,"anaerk":172},"username":"jemmu"}
+{"_id":{"$oid":"51d99f890cf2b152428c2dfc"},"email":"lordjupu@gmail.com","profile":{"goals":"Ikäluokan mm-kulta","synopsis":"Kunhan tahtoo tarpeeksi","resthr":40,"maxhr":200,"aerk":150,"anaerk":182},"username":"Spica"}
+{"_id":{"$oid":"51db34e30cf218d13f2d21df"},"email":"tom.vihonen@elisanet.fi","profile":{"goals":"","synopsis":"","resthr":54,"maxhr":186,"aerk":null,"anaerk":null},"username":"von Mähönen"}
+{"_id":{"$oid":"51dbbd9d0cf218d13f2d21f5"},"email":"tuomas.nupponen@welho.com","profile":{"goals":"","synopsis":"Elämänkokemuksen tuoma tietous","resthr":47,"maxhr":176,"aerk":null,"anaerk":null},"username":"tuomasnu"}
+{"_id":{"$oid":"51dd136c0cf2c1c4464d80ee"},"email":"psmakela@hotmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Osculum"}
+{"_id":{"$oid":"51dd43b50cf2c1c4464d80fa"},"email":"johanna.lumiaro-planting@fertinova.fi","profile":{"goals":"","synopsis":"Kuntoilija","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"JohannaLP"}
+{"_id":{"$oid":"51defa430cf2c1c4464d81ac"},"email":"jkytomak@iki.fi","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"username":"jyri"}
+{"_id":{"$oid":"51ecf6f20cf2c1c4464d8620"},"email":"ville.vayrynen@oyk.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Viltsu"}
+{"_id":{"$oid":"5201438e0cf2aa73d296593a"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"lotta.luokkanen@gmail.com","username":"iidizz"}
+{"_id":{"$oid":"520375e40cf2aa73d29659dd"},"email":"p44mattila@gmail.com","profile":{"goals":"","synopsis":"","resthr":52,"maxhr":187,"aerk":null,"anaerk":null},"username":"callahan"}
+{"_id":{"$oid":"521b64f10cf2c08c3c4f2e8f"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"simo.wannas@runhigh.fi","username":"eSimo"}
+{"_id":{"$oid":"521b65540cf2c08c3c4f2e90"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"tuomo.salonen@runhigh.fi","username":"espoonborza"}
+{"_id":{"$oid":"521dd9180cf2c08c3c4f2f81"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"tero.ojanen@gmail.com","username":"-Unna-"}
+{"_id":{"$oid":"521f22840cf2c08c3c4f2fea"},"email":"petri.hanninen2@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"petri"}
+{"_id":{"$oid":"521f84440cf2c08c3c4f3006"},"email":"kari.nieminen@kopteri.fi","profile":{"goals":"Kohti Terwahiihtoa","synopsis":"Let the fools do the running","resthr":50,"maxhr":168,"aerk":135,"anaerk":151},"username":"Bråoddvar"}
+{"_id":{"$oid":"521f87000cf2c08c3c4f3009"},"email":"mikko.uusitalo@webinfo.fi","profile":{"goals":"","synopsis":"","resthr":50,"maxhr":192,"aerk":null,"anaerk":null},"username":"mikkko"}
+{"_id":{"$oid":"52280b860cf2c08c3c4f331d"},"email":"santtury@yahoo.com","profile":{"goals":"Maratonhiihdot","synopsis":"Täysillä kovaa!!!","resthr":42,"maxhr":191,"aerk":152,"anaerk":169},"username":"Santtu77"}
+{"_id":{"$oid":"522de50c0cf2c08c3c4f353f"},"email":"tuomo.kuosmanen@mitox.fi","profile":{"goals":"","synopsis":"","resthr":56,"maxhr":190,"aerk":145,"anaerk":175},"username":"kuostu"}
+{"_id":{"$oid":"5239acbd0cf21fd898693206"},"email":"temeleht@gmail.com","profile":{"goals":"","synopsis":"","resthr":57,"maxhr":185,"aerk":null,"anaerk":null},"username":"Lehtis"}
+{"_id":{"$oid":"5241d6970cf22d3b9cb4e17a"},"profile":{"goals":"","synopsis":"Väsy ei ole vätys","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"kaisa.unkila@orionpharma.com","username":"Asiak"}
+{"_id":{"$oid":"524422630cf22d3b9cb4e219"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"taisto.holla@luukku.com","username":"puula"}
+{"_id":{"$oid":"5245f0d30cf2a33fb0c082d4"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"sara@saraitshikin.net","username":"sarav"}
+{"_id":{"$oid":"524690bc0cf2a33fb0c082e6"},"email":"paula.ylhainen@gmail.com","profile":{"goals":"Tasapaino elämässä","synopsis":"Pidä pää kylmänä ja jalat lämpiminä","resthr":41,"maxhr":181,"aerk":null,"anaerk":null},"username":"Flipper"}
+{"_id":{"$oid":"52470d680cf2a33fb0c0832a"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"Minna.hannin@gmail.com","username":"Dorian"}
+{"_id":{"$oid":"5248e1de0cf2a33fb0c0840e"},"email":"taisto.holla@luukku.com","profile":{"goals":"","synopsis":"","resthr":75,"maxhr":174,"aerk":null,"anaerk":null},"username":"Honska"}
+{"_id":{"$oid":"5252744a0cf2a33fb0c08716"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"marja.toytari@proliitto.fi","username":"Marjato"}
+{"_id":{"$oid":"525da1f30cf2a33fb0c08abb"},"email":"antti.niinikoski@gmail.com","profile":{"goals":"","synopsis":"","resthr":33,"maxhr":210,"aerk":null,"anaerk":null},"username":"Naatti"}
+{"_id":{"$oid":"525fe12d0cf2a33fb0c08b55"},"email":"jm.pitkanen83@gmail.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"username":"paukku c-pojat 2013"}
+{"_id":{"$oid":"5262e09b0cf2a33fb0c08c43"},"email":"jyrki.nummela@gmail.com","profile":{"goals":"Aconcagua 6962 m: tammikuu/2015 ???","synopsis":"","resthr":42,"maxhr":null,"aerk":null,"anaerk":null},"username":"JyNu"}
+{"_id":{"$oid":"527102ac0cf20db0519c61bc"},"email":"Ossi.kokkonen@gmail.com","profile":{"goals":"","synopsis":"Kuusamoon","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Ossi"}
+{"_id":{"$oid":"527103f50cf20db0519c61bd"},"email":"jouko.patsi@pp.inet.fi","profile":{"goals":"Hyvä kunto ja reipas mieli....","synopsis":"Hitaasti mutta varmasti....","resthr":52,"maxhr":184,"aerk":null,"anaerk":null},"username":"Jokkehp2"}
+{"_id":{"$oid":"5271d6340cf20db0519c623e"},"email":"jouni.tervashonka@pp.inet.fi","profile":{"goals":"jaksaa","synopsis":"Aina ulkona","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"username":"kanto5"}
+{"_id":{"$oid":"52724a2d0cf20db0519c6266"},"email":"jari.soikkeli@katajayu.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"jaris"}
+{"_id":{"$oid":"52728b2c0cf20db0519c6278"},"email":"manninenrami@gmail.com","profile":{"goals":"Kisata mtb-enduroa kunhan saan hankittua fillarin...","synopsis":"Kyl mäkin jos...","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Ftw13"}
+{"_id":{"$oid":"5272a7010cf20db0519c628c"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"tuomas.keisteri@saunalahti.fi","username":"Keisteri"}
+{"_id":{"$oid":"527353590cf20db0519c62b4"},"email":"jussi.myllykoski@gmail.com","profile":{"goals":"","synopsis":"","resthr":34,"maxhr":186,"aerk":null,"anaerk":null},"username":"JussiM"}
+{"_id":{"$oid":"52735cf40cf20db0519c62be"},"email":"sakutih@hotmail.com","profile":{"goals":"","synopsis":"","resthr":39,"maxhr":196,"aerk":145,"anaerk":172},"username":"JMar"}
+{"_id":{"$oid":"5273eb4c0cf20db0519c634d"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"jmmartik@gmail.com","username":"Jschii"}
+{"_id":{"$oid":"527428f10cf20db0519c63a5"},"email":"js.pitkanen@elisanet.fi","profile":{"goals":"","synopsis":"Korkeanpaikankammoinen neljän tunnin maratoonari.","resthr":50,"maxhr":200,"aerk":166,"anaerk":185},"username":"Juss1"}
+{"_id":{"$oid":"527530eb0cf20db0519c644c"},"email":"saraku.sairaanhoito@gmail.com","profile":{"goals":"maraton 2014","synopsis":"sitkeys palkitaan","resthr":54,"maxhr":178,"aerk":141,"anaerk":163},"username":"Sarkku"}
+{"_id":{"$oid":"527bbf060cf2c76ee80a8b26"},"email":"simoanneli@gmail.com","profile":{"goals":"Prahan puolimaraton 2014","synopsis":"Kuitenkin vain silloin, kun huvittaa","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Nanne"}
+{"_id":{"$oid":"5280a4b60cf2a214b4f1b676"},"email":"saku.kirves@gmail.com","profile":{"goals":"","synopsis":"","resthr":40,"maxhr":185,"aerk":null,"anaerk":null},"username":"saq"}
+{"_id":{"$oid":"5281558c0cf2a214b4f1b6f0"},"email":"ttsuni@yahoo.com","profile":{"goals":"","synopsis":"","resthr":38,"maxhr":191,"aerk":154,"anaerk":175},"username":"Maileri"}
+{"_id":{"$oid":"5289fc020cf28c97f6357379"},"email":"tuulikos@gmail.com","profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"username":"tuuli"}
+{"_id":{"$oid":"528a88400cf28c97f635741b"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"marja.toytari@proliitto.fi","username":"miirulainen"}
+{"_id":{"$oid":"528c59900cf28c97f635752c"},"username":"jsatta"}
+{"_id":{"$oid":"529219820cf28c97f635785f"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"kari.varpenius@kotinet.com","username":"uap2"}
+{"_id":{"$oid":"52931e430cf28c97f63578ee"},"email":"paikkaus@yahoo.com","profile":{"goals":"Pirkanjuoksu 2014.","synopsis":"Urheilu verissä, kuitenkin.","resthr":65,"maxhr":185,"aerk":null,"anaerk":null},"username":"henkkajalopeura"}
+{"_id":{"$oid":"529336020cf28c97f63578fe"},"email":"pkvirta@gmail.com","profile":{"goals":"Tonni","synopsis":"Juoksemista älä lopeta.","resthr":47,"maxhr":188,"aerk":null,"anaerk":null},"username":"peteontrail"}
+{"_id":{"$oid":"5298c7d30cf28c97f6357c85"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"ruuthpasi@gmail.com","username":"velmu67"}
+{"_id":{"$oid":"529a18470cf28c97f6357d92"},"email":"tupajunen@gmail.com","profile":{"goals":"Mitä milloinkin","synopsis":"Kunhan liikun","resthr":42,"maxhr":172,"aerk":null,"anaerk":null},"username":"TuPa"}
+{"_id":{"$oid":"529a4bef0cf28c97f6357e00"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"Aritaljakoti@gmail.com","username":"AT23"}
+{"_id":{"$oid":"52add8ee0cf25130331ffc5f"},"email":"eerimari.ronnberg@gmail.com","profile":{"goals":"55/120/270","synopsis":"ellet voi muuttaa tilannetta,muuta asennetta","resthr":54,"maxhr":173,"aerk":157,"anaerk":165},"username":"Von Ronn"}
+{"_id":{"$oid":"52bb20c40cf22b0a83d9dbf5"},"email":"marko.mattila@hotmail.com","profile":{"goals":"Tavoitteena miellyttävä elämä - Rakkaudesta kestävyyteen","synopsis":"Pahoin kanta-askeltava mukavuudenhaluinen vaahtokarkki","resthr":40,"maxhr":183,"aerk":145,"anaerk":165},"username":"Makemies"}
+{"_id":{"$oid":"52bb2dc90cf22b0a83d9dc09"},"email":"janne.ojala@elisanet.fi","profile":{"goals":"Pidä hauskaa!","synopsis":"Elämä on ihmisen parasta aikaa!","resthr":42,"maxhr":180,"aerk":140,"anaerk":150},"username":"JanneTJO"}
+{"_id":{"$oid":"52bb32fc0cf22b0a83d9dc0d"},"email":"catpaps@gmail.com","profile":{"goals":"","synopsis":"","resthr":48,"maxhr":186,"aerk":null,"anaerk":null},"username":"catti"}
+{"_id":{"$oid":"52bb4dd40cf22b0a83d9dc1b"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"sirpakara@gmail.com","username":"nallonen"}
+{"_id":{"$oid":"52bb5caa0cf22b0a83d9dc1c"},"email":"jussihul@gmail.com","profile":{"goals":"","synopsis":"Make friends with pain, and you'll never be alone.","resthr":50,"maxhr":196,"aerk":154,"anaerk":175},"username":"jhulk"}
+{"_id":{"$oid":"52bb5d430cf22b0a83d9dc1e"},"email":"jounirt@hotmail.com","profile":{"goals":"veteraanien sm-kisat 10/14, Mara mahd.lähelle 3h","synopsis":"vain järki voi tulla johtopäätökseen että järki ei riitä","resthr":46,"maxhr":183,"aerk":148,"anaerk":167},"username":"Jouni Lehto"}
+{"_id":{"$oid":"52bb62b20cf22b0a83d9dc26"},"email":"virpi.tomppo@gmail.com","profile":{"goals":"","synopsis":"","resthr":56,"maxhr":167,"aerk":null,"anaerk":null},"username":"Tomvi1"}
+{"_id":{"$oid":"52bbdf8a0cf22b0a83d9dc2a"},"email":"pia.olkkonen@gmail.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"username":"mallaya"}
+{"_id":{"$oid":"52bbed1a0cf22b0a83d9dc30"},"email":"tphpeltola@gmail.com","profile":{"goals":"Maraton maaliin","synopsis":"Masokisti on aina mukavuusalueella","resthr":52,"maxhr":198,"aerk":157,"anaerk":177},"username":"Bakemono"}
+{"_id":{"$oid":"52bc45550cf22b0a83d9dc75"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"Heiskanen.Reetta@gmail.com","username":"RHH"}
+{"_id":{"$oid":"52bc7a610cf22b0a83d9dcac"},"email":"matias.pusa@gmail.com","profile":{"goals":"","synopsis":"http://matskutreenaa.blogspot.fi/","resthr":42,"maxhr":198,"aerk":160,"anaerk":174},"username":"Matsku"}
+{"_id":{"$oid":"52bc86740cf22b0a83d9dcba"},"email":"shenttonen@gmail.com","profile":{"goals":"","synopsis":"","resthr":47,"maxhr":186,"aerk":135,"anaerk":161},"username":"SeijaH"}
+{"_id":{"$oid":"52bceeea0cf22b0a83d9dcc8"},"email":"Nina.rokala@gmail.com","profile":{"goals":"Finlandia-hiihto alle 4 h (50 km vapaa)","synopsis":"Leuka rintaan ja kohti uusia pettymyksiä","resthr":46,"maxhr":185,"aerk":133,"anaerk":165},"username":"NinaRock"}
+{"_id":{"$oid":"52bd37290cf22b0a83d9dcd3"},"email":"tommy.rantala@gmail.com","profile":{"goals":"Huhtikuussa maraton alle 3h","synopsis":"","resthr":33,"maxhr":175,"aerk":null,"anaerk":null},"username":"TomRa"}
+{"_id":{"$oid":"52bd59ad0cf22b0a83d9dcdf"},"email":"olavijari@gmail.com","profile":{"goals":"Juosta vielä ainakin muutama vuosi","synopsis":"Silmät avataan ja suljetaan","resthr":42,"maxhr":160,"aerk":null,"anaerk":null},"username":"JSuuro"}
+{"_id":{"$oid":"52bdd9640cf22b0a83d9dd2b"},"email":"petrahacklin@gmail.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":182,"aerk":null,"anaerk":null},"username":"PetraPH"}
+{"_id":{"$oid":"52be8bf90cf22b0a83d9dd6a"},"email":"Janne.oravisto@gmail.com","profile":{"goals":"Kunto","synopsis":"Tossua toisen eteen.","resthr":68,"maxhr":175,"aerk":null,"anaerk":null},"username":"Janor"}
+{"_id":{"$oid":"52c017170cf233b944b9db6e"},"email":"jaana.m.leivo@gmail.com","profile":{"goals":"38:00, 1:20 ja 3:00 -alitukset","synopsis":"Pomppua elämään!","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"j2ana"}
+{"_id":{"$oid":"52c2eea80cf29b400b1d0ae9"},"email":"jenskajadobe@hotmail.com","profile":{"goals":"","synopsis":"Se mikä ei tapa, sen on vitti pakko vahvistaa!","resthr":45,"maxhr":210,"aerk":165,"anaerk":186},"username":"Jenska"}
+{"_id":{"$oid":"52c3bc440cf29b400b1d0b50"},"email":"hanna.viljaranta@iss.fi","profile":{"goals":"Kesällä triathlonin puolimatka. ","synopsis":"Ilolla eteenpäin!","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"hannavi"}
+{"_id":{"$oid":"52c3fe7f0cf29b400b1d0b8d"},"email":"gia.backstrom@gmail.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":173,"aerk":null,"anaerk":null},"username":"MissPiggy"}
+{"_id":{"$oid":"52c3fe820cf29b400b1d0b8e"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"minttu.mustonen@iki.fi","username":"mm"}
+{"_id":{"$oid":"52c41fa40cf29b400b1d0bb4"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"loc0u@hotmail.com","username":"neath"}
+{"_id":{"$oid":"52c448e30cf29b400b1d0bff"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"marjo-riittalouhula@hotmail.com","username":"CarpeDiem"}
+{"_id":{"$oid":"52c4ef000cf29b400b1d0c5d"},"email":"mehtonen@gmail.com","profile":{"goals":"","synopsis":"","resthr":38,"maxhr":175,"aerk":null,"anaerk":null},"username":"mime"}
+{"_id":{"$oid":"52c565480cf29b400b1d0cbb"},"email":"jyrki.lahteenmaki@elisanet.fi","profile":{"goals":"","synopsis":"","resthr":60,"maxhr":191,"aerk":136,"anaerk":171},"username":"Lahjy"}
+{"_id":{"$oid":"52c5b7690cf29b400b1d0d14"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"Niko.junnila@gmail.com","username":"MiMa"}
+{"_id":{"$oid":"52c72c7f0cf2c6a463b7e7c9"},"email":"ilokockpe@gmail.com","profile":{"goals":"","synopsis":"Pain is so close to pleasure.","resthr":0,"maxhr":0,"aerk":null,"anaerk":null},"username":"iloko"}
+{"_id":{"$oid":"52c82a0a0cf21f52f1045246"},"email":"piuusita@gmail.com","profile":{"goals":"","synopsis":"","resthr":54,"maxhr":192,"aerk":null,"anaerk":null},"username":"PiiPo"}
+{"_id":{"$oid":"52c96a360cf21f52f1045329"},"email":"marjukka78@suomi24.fi","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":176,"aerk":null,"anaerk":null},"username":"marjukka78"}
+{"_id":{"$oid":"52cbb6710cf24be11551a41d"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"avesia.leen@gmail.com","username":"Teijuli"}
+{"_id":{"$oid":"52cc16d70cf24be11551a489"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"timo.serenius@figen.fi","username":"Docs"}
+{"_id":{"$oid":"52d392f10cf2e716497f655c"},"email":"pikkukilometrit@gmail.com","profile":{"goals":"","synopsis":"","resthr":59,"maxhr":198,"aerk":160,"anaerk":181},"username":"Pikkuakka"}
+{"_id":{"$oid":"52d4033c0cf2e716497f6595"},"email":"hannu_parviainen@hotmail.com","profile":{"goals":"","synopsis":"","resthr":36,"maxhr":175,"aerk":null,"anaerk":null},"username":"enkelman"}
+{"_id":{"$oid":"52d6226c0cf2e716497f671b"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"slap_me_@hotmail.com","username":"jvagla"}
+{"_id":{"$oid":"52d916590cf2e716497f698b"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"dayoff@suomi24.fi","username":"wassu"}
+{"_id":{"$oid":"52dab41e0cf2e716497f6abf"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"tarja.antell@windowslive.com","username":"Daria"}
+{"_id":{"$oid":"52dceaf50cf20e7bdeb135a3"},"email":"klee.laine@gmail.com","profile":{"goals":"","synopsis":"","resthr":54,"maxhr":209,"aerk":null,"anaerk":null},"username":"kleelaine"}
+{"_id":{"$oid":"52dd91be0cf20e7bdeb1363b"},"email":"katri.tanni@differo.fi","profile":{"goals":"Joroisten puolimatka 2014 ","synopsis":"Itsensä voittaen","resthr":55,"maxhr":169,"aerk":null,"anaerk":null},"username":"Tannikat"}
+{"_id":{"$oid":"52dd92f90cf20e7bdeb1363d"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"j.viljanen@dnainternet.net","username":"Juuhan"}
+{"_id":{"$oid":"52dd9efc0cf20e7bdeb1364a"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"mika.vainionpaa@gmail.com","username":"Mikasso"}
+{"_id":{"$oid":"52de38fb0cf20e7bdeb13675"},"email":"jaakkosoronen@yahoo.com","profile":{"goals":"Mennä eteenpäin","synopsis":"Eteenpäin","resthr":null,"maxhr":203,"aerk":null,"anaerk":null},"username":"Carles"}
+{"_id":{"$oid":"52dececa0cf20e7bdeb13715"},"email":"pekkakinnari@luukku.com","profile":{"goals":"","synopsis":"","resthr":48,"maxhr":198,"aerk":null,"anaerk":null},"username":"Pedro77"}
+{"_id":{"$oid":"52df5f440cf20e7bdeb1374d"},"email":"jaana.rossi@hotmail.fi","profile":{"goals":"Finntriathlon 2014","synopsis":"Aina valmis lenkille!","resthr":48,"maxhr":160,"aerk":null,"anaerk":null},"username":"jaana"}
+{"_id":{"$oid":"52e14b700cf20e7bdeb1387f"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"aila.kuusi@surffi.net","username":"aila6"}
+{"_id":{"$oid":"52ebbc4c0cf207e779ce6983"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"Mari.k.toivonen@gmail.com","username":"Hopeless"}
+{"_id":{"$oid":"52ebc6bc0cf207e779ce6987"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"h.soinne@gmail.com","username":"hannus"}
+{"_id":{"$oid":"52ef69a20cf207e779ce6bcc"},"email":"anton.panschin@gmail.com","profile":{"goals":"","synopsis":"","resthr":51,"maxhr":190,"aerk":null,"anaerk":null},"username":"sissonen"}
+{"_id":{"$oid":"530b2de80cf23702a1a7c5f7"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"antti.saikko@gmail.com","username":"antsa"}
+{"_id":{"$oid":"531988350cf25ce0d655c7b3"},"email":"timppa_s@hotmail.com","profile":{"goals":"kesän kuntopyöräkisat","synopsis":"tavoitteellisesti treenaava mutta laiska astmaatikko","resthr":55,"maxhr":174,"aerk":122,"anaerk":148},"username":"timppas"}
+{"_id":{"$oid":"5325b0600cf2ff071d50eda6"},"email":"nyyssonenjuha@gmail.com","profile":{"goals":"","synopsis":"Parempi lenkkarit jalassa kun kymmenet hyllyllä.","resthr":40,"maxhr":200,"aerk":151,"anaerk":171},"username":"Nysä"}
+{"_id":{"$oid":"5325cc070cf2ff071d50edbf"},"email":"mmakela5@welho.com","profile":{"goals":"B-raja millä tahansa matkalla","synopsis":"Ikuinen nuoruus","resthr":42,"maxhr":186,"aerk":null,"anaerk":null},"username":"Snakster"}
+{"_id":{"$oid":"5326cfe20cf234d7cf201b78"},"email":"olli.koski@westervesa.fi","profile":{"goals":"Huippukunto","synopsis":"","resthr":45,"maxhr":190,"aerk":null,"anaerk":null},"username":"OKoski"}
+{"_id":{"$oid":"5329694c0cf234d7cf201cf9"},"email":"karri.suominen@gmail.com","profile":{"goals":"Maraton alle 3h, 1/2-maraton alle 1:25","synopsis":"","resthr":42,"maxhr":183,"aerk":156,"anaerk":173},"username":"bitcooler"}
+{"_id":{"$oid":"53296f7d0cf234d7cf201cff"},"email":"ilpo.vuori@gmail.com","profile":{"goals":"","synopsis":"","resthr":53,"maxhr":179,"aerk":135,"anaerk":155},"username":"ivuori"}
+{"_id":{"$oid":"5329a6450cf234d7cf201d24"},"email":"tommi.keronen@gmail.com","profile":{"goals":"","synopsis":"","resthr":39,"maxhr":184,"aerk":null,"anaerk":null},"username":"harpatti"}
+{"_id":{"$oid":"5329ea9c0cf234d7cf201d5d"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"turpeinen.joni@gmail.com","username":"joni134"}
+{"_id":{"$oid":"5335a0e90cf21dd7713eefd6"},"email":"svante.karkkainen@me.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":185,"aerk":null,"anaerk":null},"username":"svante"}
+{"_id":{"$oid":"533bf47b0cf28924708ed46e"},"email":"ripyy@netti.fi","profile":{"goals":"","synopsis":"","resthr":50,"maxhr":204,"aerk":null,"anaerk":null},"username":"yty"}
+{"_id":{"$oid":"533bf5120cf28924708ed46f"},"email":"atoivanen@live.fi","profile":{"goals":"Kehittyä ja nautiskella","synopsis":"Jaksaa jaksaa, asenteella","resthr":38,"maxhr":185,"aerk":null,"anaerk":null},"username":"atoivanen"}
+{"_id":{"$oid":"533d2fea0cf21d3079de1154"},"email":"tapio.honkanen@student.oulu.fi","profile":{"goals":"10 km","synopsis":"","resthr":48,"maxhr":205,"aerk":160,"anaerk":183},"username":"Mankeli"}
+{"_id":{"$oid":"533db6ff0cf21d3079de1241"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"sulo.savolainen@saunalahti.fi","username":"Gala-Galle"}
+{"_id":{"$oid":"533e9e870cf21d3079de129e"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"tassa46@gmail.com","username":"TarSu"}
+{"_id":{"$oid":"53412eb20cf21d3079de145a"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"matchfi78@gmail.com","username":"mikmak"}
+{"_id":{"$oid":"5343df1a0cf2e7533f7df8ed"},"email":"janne.kuusivaara@gmail.com","profile":{"goals":"","synopsis":"","resthr":44,"maxhr":180,"aerk":146,"anaerk":166},"username":"jannek"}
+{"_id":{"$oid":"5344fdaf0cf2ee90c684a70a"},"email":"lea.lehmuskoski@gmail.com","profile":{"goals":"Maraton","synopsis":"Pkpkpkpitkisjavk","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"lehmus"}
+{"_id":{"$oid":"53468dbb0cf2ee90c684a806"},"email":"liis.tonnov@gmail.com","profile":{"goals":"puolikas kesällä/syksyllä 2014","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Liist"}
+{"_id":{"$oid":"5350ffc30cf2ee90c684aeef"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"jarno.alhonen@iki.fi","username":"jalhonen"}
+{"_id":{"$oid":"5353cd220cf2ee90c684b06c"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"amuurinen@hotmail.com","username":"Ansku007"}
+{"_id":{"$oid":"5357964d0cf2ee90c684b308"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"mj.jokinen@gmail.com","username":"beaniest"}
+{"_id":{"$oid":"5358c6ef0cf2ee90c684b3d5"},"profile":{"goals":"","synopsis":"Juokse aina kun voit.|http://pikkuliten. blogspot.com ","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"pikkuliten@gmail.com","username":"poppis"}
+{"_id":{"$oid":"53592b0f0cf2ee90c684b41c"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"eero.kuusisto@gmail.com","username":"EeroK"}
+{"_id":{"$oid":"535d1c310cf2ee90c684b658"},"email":"minaitte83@hotmail.com","profile":{"goals":"","synopsis":"Tossua tossun eteen","resthr":0,"maxhr":0,"aerk":null,"anaerk":null},"username":"donitsi"}
+{"_id":{"$oid":"5361f8000cf2e75314be9ed2"},"email":"saara.viio@ouka.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"SaaraKaisa"}
+{"_id":{"$oid":"5363d2870cf2e75314be9ffd"},"email":"n0ble@dnainternet.net","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":188,"aerk":144,"anaerk":165},"username":"noble"}
+{"_id":{"$oid":"5364a4270cf2e75314bea046"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"spw_seila@hotmail.com","username":"spw"}
+{"_id":{"$oid":"5364c0ba0cf2e75314bea04c"},"email":"j.marttila@dnainternet.net","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":180,"aerk":null,"anaerk":null},"username":"Jannem71"}
+{"_id":{"$oid":"5364d9570cf2e75314bea059"},"email":"hoolironi@gmail.com","profile":{"goals":"IM kisa -15","synopsis":"hiljaa hyä tullee","resthr":42,"maxhr":197,"aerk":158,"anaerk":182},"username":"Trinisti"}
+{"_id":{"$oid":"5364e7ce0cf2e75314bea062"},"email":"toni.malmstrom@hotmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"tonimalm"}
+{"_id":{"$oid":"536727010cf2e75314bea213"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"ella.sihvonen@helsinki.fi","username":"Bowling Alone"}
+{"_id":{"$oid":"536ba00c0cf26a313569ba0f"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":189,"aerk":null,"anaerk":null},"email":"johanna.davidila@gmail.com","username":"Aries"}
+{"_id":{"$oid":"536c9fc90cf26a313569ba8b"},"email":"antti.t.nyman@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"atnyman"}
+{"_id":{"$oid":"537064a40cf26a313569bcc8"},"email":"kloveson@gmail.com","profile":{"goals":"Kuolla terveenä","synopsis":"Terveydeksi verenmaku suussa","resthr":58,"maxhr":170,"aerk":null,"anaerk":null},"username":"Carolus"}
+{"_id":{"$oid":"537653a40cf26a313569c053"},"email":"marimaier@hotmail.de","profile":{"goals":"","synopsis":"Tee aina parhaasi. ","resthr":47,"maxhr":190,"aerk":154,"anaerk":175},"username":"MariMai"}
+{"_id":{"$oid":"5379d1b70cf26a313569c267"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"marja-leena.ikkala@helsinki.fi","username":"Nonniin"}
+{"_id":{"$oid":"537c46dc0cf26a313569c434"},"email":"teija_honkonen@hotmail.com","profile":{"goals":"Se mikä ei tapa, vahvistaa!","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Pele"}
+{"_id":{"$oid":"537c8d830cf26a313569c465"},"email":"jukka.siren@iki.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Jukka"}
+{"_id":{"$oid":"537da21b0cf26a313569c4ec"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"olli.laine@suomi24.fi","username":"OlliL"}
+{"_id":{"$oid":"53822b480cf26a313569c7c2"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"minna.andberg@kolumbus.fi","username":"St."}
+{"_id":{"$oid":"538826ab0cf26a313569cb38"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"ville@fleikki.com","username":"oldnick"}
+{"_id":{"$oid":"538c0c370cf26a313569cd45"},"email":"ulla.luokkanen@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Lone athlete"}
+{"_id":{"$oid":"538c410a0cf26a313569cd78"},"profile":{"resthr":{"$numberLong":"42"},"maxhr":{"$numberLong":"192"}},"email":"ville_somppi@yahoo.com","username":"vsomppi"}
+{"_id":{"$oid":"53960a740cf26a313569d298"},"email":"jjlinna@gmail.com","profile":{"goals":"","synopsis":"","resthr":46,"maxhr":167,"aerk":null,"anaerk":null},"username":"JiiL"}
+{"_id":{"$oid":"5396b2fb0cf26a313569d2c9"},"email":"antti.jylha-ollila@suomi24.fi","profile":{"goals":"","synopsis":"","resthr":48,"maxhr":188,"aerk":null,"anaerk":null},"username":"anttijo"}
+{"_id":{"$oid":"539ece9d0cf26a313569d7b2"},"email":"tikkanen.heikki@gmail.com","profile":{"goals":"","synopsis":"","resthr":50,"maxhr":200,"aerk":null,"anaerk":null},"username":"Tiksteeni"}
+{"_id":{"$oid":"539f08130cf26a313569d7f1"},"email":"mats.hasto@gmail.com","profile":{"goals":"","synopsis":"","resthr":0,"maxhr":0,"aerk":null,"anaerk":null},"username":"staM"}
+{"_id":{"$oid":"53a6db8a0cf27bcac5371266"},"email":"mikko.niittoaho@gmail.com","profile":{"goals":"","synopsis":"","resthr":50,"maxhr":195,"aerk":145,"anaerk":171},"username":"mniittoaho"}
+{"_id":{"$oid":"53b85e930cf295ced5292aad"},"email":"juho.keitaanniemi@laurimehto.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":196,"aerk":null,"anaerk":null},"username":"Juho"}
+{"_id":{"$oid":"53c907cb0cf21569194ad0f5"},"email":"sanna.haikonen@gmail.com","profile":{"goals":"","synopsis":"","resthr":70,"maxhr":190,"aerk":null,"anaerk":null},"username":"sannahaikonen"}
+{"_id":{"$oid":"53c909b80cf21569194ad0f7"},"email":"siivola@lut.fi","profile":{"goals":"","synopsis":"","resthr":55,"maxhr":192,"aerk":142,"anaerk":174},"username":"otakar"}
+{"_id":{"$oid":"53c91eee0cf21569194ad102"},"email":"k.gynther@kolumbus.fi","profile":{"goals":"","synopsis":"","resthr":45,"maxhr":190,"aerk":null,"anaerk":null},"username":"kimasevits"}
+{"_id":{"$oid":"53c93dd80cf21569194ad10c"},"email":"anttinisonen@gmail.com","profile":{"goals":"","synopsis":"","resthr":45,"maxhr":185,"aerk":140,"anaerk":160},"username":"anttinisonen"}
+{"_id":{"$oid":"53cd7b330cf2c56af6418276"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jari.rosti@reaktor.fi","username":"jro"}
+{"_id":{"$oid":"53de1e8d0cf2de558315028d"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jouni.junkkaala@gmail.com","username":"J1one"}
+{"_id":{"$oid":"53e220e80cf2de55831505d6"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"stumbe@gmail.com","username":"stumbe"}
+{"_id":{"$oid":"53e355d20cf2de55831506c0"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"antti.rytsala@fimnet.fi","username":"arytsala"}
+{"_id":{"$oid":"53e3d1cc0cf2de5583150726"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"maria@maattanen.fi","username":"mariamaa"}
+{"_id":{"$oid":"53e86f370cf2de55831509de"},"email":"visa-pekka.larivaara@luukku.com","profile":{"goals":"NUTS KK 160 km, NUTS Y-P-H 125 km, Vaarojen Maraton 86 km","synopsis":"Pitkälle","resthr":42,"maxhr":192,"aerk":138,"anaerk":168},"username":"Larry Danger"}
+{"_id":{"$oid":"53eda8670cf2de5583150dd9"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"lkpaak@utu.fi","username":"lkpaak"}
+{"_id":{"$oid":"53f346ce0cf2de5583151175"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"timo.p.jaaskelainen@yit.fi","username":"Mäsä"}
+{"_id":{"$oid":"53f47ff20cf2de5583151279"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"vesiliirto@hotmail.com","username":"Mipe"}
+{"_id":{"$oid":"53f573aa0cf2348834678791"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"Timo.taipalus@lillbacka.com","username":"TimoT"}
+{"_id":{"$oid":"53f581d80cf234883467879b"},"email":"rikuka@gmail.com","profile":{"goals":"","synopsis":"","resthr":50,"maxhr":187,"aerk":155,"anaerk":171},"username":"riku"}
+{"_id":{"$oid":"540607ea0cf234883f758b06"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"j.a.r.irosti@gmail.com","username":"jarosti"}
+{"_id":{"$oid":"540b66850cf234883f758e12"},"email":"arto.enckell@gmail.com","profile":{"goals":"motivaation ylläpito","synopsis":"don´t wish for it, work for it","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"forestWhit"}
+{"_id":{"$oid":"540e0b440cf234883f758fd7"},"email":"nora.niemispelto@gmail.com","profile":{"goals":"Parantaa kestävyyttä","synopsis":"","resthr":55,"maxhr":null,"aerk":null,"anaerk":null},"username":"nnpelto"}
+{"_id":{"$oid":"54157d220cf234883f7593eb"},"email":"ojanen.juha@gmail.com","profile":{"goals":"","synopsis":"","resthr":55,"maxhr":190,"aerk":null,"anaerk":null},"username":"Juhao"}
+{"_id":{"$oid":"541dda410cf234883f759942"},"email":"laitalarasmus97@gmail.com","profile":{"goals":"Bodom Trail 21km,Tahko 120km ja PySu SM","synopsis":"","resthr":54,"maxhr":202,"aerk":null,"anaerk":null},"username":"Rassee97"}
+{"_id":{"$oid":"54242fab0cf234883f759ccd"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"minna.korkiakangas@valio.fi","username":"Mintsi"}
+{"_id":{"$oid":"54245d770cf234883f759cf9"},"email":"jannika.herttuainen@gmail.com","profile":{"goals":"","synopsis":"Do more of what makes you awesome.","resthr":null,"maxhr":203,"aerk":160,"anaerk":181},"username":"Jannni"}
+{"_id":{"$oid":"5426d9700cf234883f759df0"},"email":"kuivami@gmail.com","profile":{"goals":"Kehittyä","synopsis":"Kevyesti Pintakaasulla mutta Tosissaan","resthr":58,"maxhr":185,"aerk":null,"anaerk":null},"username":"ValkeaSuikka"}
+{"_id":{"$oid":"5427cf230cf234883f759e4a"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"aku.kopakkala@gmail.com","username":"Kopakkala"}
+{"_id":{"$oid":"542843f40cf234883f759eef"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"tuomarjo@hotmail.com","username":"Sanelma"}
+{"_id":{"$oid":"542a55020cf234883f75a010"},"email":"petteri.piispanen@gmail.com","profile":{"goals":"","synopsis":"","resthr":40,"maxhr":198,"aerk":null,"anaerk":null},"username":"picturearea"}
+{"_id":{"$oid":"542afd8d0cf234883f75a08a"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"mawest27@gmail.com","username":"MariaWest"}
+{"_id":{"$oid":"5431f9e50cf234883f75a470"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"m.pylkkanen@gmail.com","username":"mikko"}
+{"_id":{"$oid":"543c01c60cf234883f75aa6c"},"email":"marjukka.honkavaara@gmail.com","profile":{"goals":"ultraamaa","synopsis":"Elefantti syödään pala kerrallaan","resthr":53,"maxhr":198,"aerk":163,"anaerk":145},"username":"marjukka.honkavaara@gmail.com"}
+{"_id":{"$oid":"543c06e10cf234883f75aa74"},"email":"annapauliina@gmail.com","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"annapauliina"}
+{"_id":{"$oid":"543d4b2e0cf234883f75ab34"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"ailakuu6@gmail.com","username":"6aila"}
+{"_id":{"$oid":"544cb7fa0cf234883f75b3b5"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jarno.mehtio@gmail.com","username":"jarnoASA"}
+{"_id":{"$oid":"544d8baf0cf23b51e65d09f8"},"email":"ville.syrja@gmail.com","profile":{"goals":"","synopsis":"","resthr":45,"maxhr":195,"aerk":140,"anaerk":170},"username":"wille"}
+{"_id":{"$oid":"544dc5ba0cf23b51e65d09fa"},"email":"tiina.laitimo@gmail.com","profile":{"goals":"Pitää pystyä puhumaan, myös kotona","synopsis":"Hitaasti mutta varmasti","resthr":42,"maxhr":180,"aerk":null,"anaerk":null},"username":"endorfiini"}
+{"_id":{"$oid":"544dfb160cf23b51e65d0a25"},"email":"sami.sairanen@luja.fi","profile":{"goals":"Kreikassa olis kiva käydä","synopsis":"Vaikka uskot itseesi, voit silti olla ihan paska","resthr":36,"maxhr":181,"aerk":149,"anaerk":165},"username":"Soironen"}
+{"_id":{"$oid":"544dfb430cf23b51e65d0a26"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"paivi.kanerva@utu.fi","username":"Päikkyli"}
+{"_id":{"$oid":"544e5b9b0cf23b51e65d0a8f"},"email":"eleonoora.salminen@iki.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Adalmine"}
+{"_id":{"$oid":"544f2e740cf23b51e65d0b61"},"email":"jannek8@netti.fi","profile":{"goals":"","synopsis":"carpe diem","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"janne83"}
+{"_id":{"$oid":"544f34c60cf23b51e65d0b68"},"email":"jarkkokaha@hotmail.com","profile":{"goals":"","synopsis":"Don't explain. Run.","resthr":48,"maxhr":203,"aerk":null,"anaerk":null},"username":"Jarkko"}
+{"_id":{"$oid":"544f3b6b0cf23b51e65d0b72"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"suvinevala74@gmail.com","username":"nevalasuvi"}
+{"_id":{"$oid":"544f5da40cf23b51e65d0b98"},"email":"riku.tiusanen@elisanet.fi","profile":{"goals":"maasto puolikas nyt alkuun, fiksuun aikaan","synopsis":"Kukaan ei ole täydellinen","resthr":54,"maxhr":180,"aerk":null,"anaerk":null},"username":"Tiuca"}
+{"_id":{"$oid":"544f66cf0cf23b51e65d0ba6"},"email":"janne.kippola@omanetti.fi","profile":{"goals":"","synopsis":"liikkuvakippolanperhe.com","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"J.Olof"}
+{"_id":{"$oid":"544f6a070cf23b51e65d0bac"},"email":"karitakoski1@gmail.com","profile":{"goals":"","synopsis":"Näillä mennään","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Karitza"}
+{"_id":{"$oid":"544f6c800cf23b51e65d0bae"},"email":"antti.risikko@gmail.com","profile":{"goals":"Nuts Karhunkierros 53k","synopsis":"Mieluummin metsään....","resthr":50,"maxhr":180,"aerk":null,"anaerk":null},"username":"AnttiRi"}
+{"_id":{"$oid":"544f75800cf23b51e65d0bbd"},"email":"kujanpaa2@gmail.com","profile":{"goals":"Riika maraton 2015","synopsis":"","resthr":47,"maxhr":178,"aerk":142,"anaerk":159},"username":"Kujanjuoksu"}
+{"_id":{"$oid":"544f84f20cf23b51e65d0bca"},"email":"tomi.mantela@gmail.com","profile":{"goals":"Puolimaraton alle 1:25, Triathlonin puolimatka, Joiroinen.","synopsis":"","resthr":60,"maxhr":189,"aerk":145,"anaerk":164},"username":"toma"}
+{"_id":{"$oid":"544f88b10cf23b51e65d0bcd"},"email":"annika.makinen@condens.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"AnnikaM"}
+{"_id":{"$oid":"544f97790cf23b51e65d0bda"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"olli.kopakkala@ukko.fi","username":"timore"}
+{"_id":{"$oid":"544fcfe70cf23b51e65d0c06"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"varismari1@gmail.com","username":"Ämvee"}
+{"_id":{"$oid":"544fdeab0cf23b51e65d0c1e"},"email":"palokangas.esa@pp.inet.fi","profile":{"goals":"","synopsis":"","resthr":null,"maxhr":192,"aerk":null,"anaerk":null},"username":"EsaP"}
+{"_id":{"$oid":"544fe33d0cf23b51e65d0c2d"},"email":"ari.ronkainen@pp.fimnet.fi","profile":{"goals":"","synopsis":"","resthr":56,"maxhr":192,"aerk":null,"anaerk":null},"username":"Ari"}
+{"_id":{"$oid":"5450f5c50cf23b51e65d0cbe"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"Ansku.potila@gmail.com","username":"Annpoti"}
+{"_id":{"$oid":"54521b500cf23b51e65d0d7a"},"email":"antti.jylha-ollila@suomi24.fi","profile":{"goals":"","synopsis":"","resthr":35,"maxhr":200,"aerk":153,"anaerk":178},"username":"aj"}
+{"_id":{"$oid":"545316890cf23b51e65d0dfd"},"email":"panu.melkinen@netti.fi","profile":{"goals":"Maraton alle 4:30 v 2015","synopsis":"","resthr":50,"maxhr":174,"aerk":null,"anaerk":null},"username":"Pande"}
+{"_id":{"$oid":"545328600cf23b51e65d0e08"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"marra@student.uef.fi","username":"marjanen"}
+{"_id":{"$oid":"5453384a0cf23b51e65d0e12"},"email":"rudimatti@gmail.com","profile":{"goals":"-","synopsis":"-","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Rutke"}
+{"_id":{"$oid":"545392bf0cf23b51e65d0e44"},"email":"nyyssonenjuha@gmail.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":199,"aerk":150,"anaerk":170},"username":"Nysa"}
+{"_id":{"$oid":"5453fb6a0cf23b51e65d0e85"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"satu.vuorela@gmail.com","username":"Juoksentelija"}
+{"_id":{"$oid":"54551ced0cf23b51e65d0f7e"},"email":"merituuli.kerman@gmail.com","profile":{"goals":"","synopsis":"","resthr":60,"maxhr":203,"aerk":178,"anaerk":189},"username":"merituulik"}
+{"_id":{"$oid":"54552da50cf23b51e65d0fa8"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"minna.mottonen@hotmail.fi","username":"miinuliinu"}
+{"_id":{"$oid":"54553a880cf23b51e65d0fd0"},"email":"tuomo.tn@gmail.com","profile":{"goals":"","synopsis":"","resthr":37,"maxhr":183,"aerk":null,"anaerk":null},"username":"Tupu"}
+{"_id":{"$oid":"5455d0f90cf23b51e65d100f"},"email":"svante.karkkainen@me.com","profile":{"goals":"","synopsis":"","resthr":40,"maxhr":185,"aerk":null,"anaerk":null},"username":"Svante_K"}
+{"_id":{"$oid":"5457e3450cf2f3df1101c21b"},"email":"asmo.halinen@gmail.com","profile":{"goals":"","synopsis":"Ettepäi!","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"username":"Asmunder"}
+{"_id":{"$oid":"54698ffc0cf2f3df1101d061"},"email":"satu.suuronen@gmail.com","profile":{"goals":"","synopsis":"","resthr":42,"maxhr":189,"aerk":null,"anaerk":null},"username":"SatuSuuronen"}
+{"_id":{"$oid":"5470795d0cf2f3df1101d56e"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":185,"aerk":null,"anaerk":null},"email":"marko.kahilainen@consti.fi","username":"Pegasus"}
+{"_id":{"$oid":"54726fdb0cf29bff37f64592"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jussi.tuunanen@sci.fi","username":"jupet3"}
+{"_id":{"$oid":"5473b1430cf228465f03ee5c"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jari.rosti@reaktor.fi","username":"jjro"}
+{"_id":{"$oid":"54747f080cf228465f03eee5"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"raine.koivumaki@gmail.com","username":"rtk"}
+{"_id":{"$oid":"547577160cf2d89f08616118"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"laurakarttiala@live.fi","username":"LauraMinna"}
+{"_id":{"$oid":"547c1bef0cf2473a0ee5b18f"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"mirva.myyra@live.com","username":"mirva"}
+{"_id":{"$oid":"54808dfc0cf2bdef088bb055"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jyrki@salokorpi.org","username":"jsalok"}
+{"_id":{"$oid":"5480a6c00cf2bdef088bb06b"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"hannakhiltunen@gmail.com","username":"Hannahhh"}
+{"_id":{"$oid":"548301cd0cf2bdef088bb15d"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jani.stromsholm@welho.com","username":"stroms76"}
+{"_id":{"$oid":"548449490cf2bdef088bb23c"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"hansi.kitti@gmail.com","username":"ratsumies"}
+{"_id":{"$oid":"5491eea10cf264e3a14dd36b"},"profile":{"goals":"turinabolt","synopsis":"clostebolt","resthr":30,"maxhr":190,"aerk":150,"anaerk":180},"email":"joggerous@gmail.com","username":"endurobolt"}
+{"_id":{"$oid":"5491efd70cf264e3a14dd36d"},"profile":{"goals":"","synopsis":"","resthr":40,"maxhr":198,"aerk":157,"anaerk":179},"email":"werner.franzn@gmail.com","username":"wenne"}
+{"_id":{"$oid":"5496dc340cf264e3a14dd561"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"artojuh@luukku.com","username":"artojuh"}
+{"_id":{"$oid":"54aa6c760cf264e3a14de09b"},"profile":{"goals":"","synopsis":"","resthr":52,"maxhr":190,"aerk":152,"anaerk":170},"email":"ville.uusitalo@gmail.com","username":"Vilaho"}
+{"_id":{"$oid":"54aa7f8c0cf264e3a14de0b0"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"matti.pippola@gmail.com","username":"mpip67"}
+{"_id":{"$oid":"54aa83e60cf264e3a14de0b7"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"katariinaranki@gmail.com","username":"Katariina"}
+{"_id":{"$oid":"54aba2f70cf264e3a14de16b"},"profile":{"goals":"","synopsis":"Terveellinen elämä","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"minnanupponen@luukku.com","username":"Geisha"}
+{"_id":{"$oid":"54ac12f60cf264e3a14de216"},"profile":{"goals":"","synopsis":"venceremos","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"petri.nyberg@raseborg.fi","username":"nikopeik"}
+{"_id":{"$oid":"54b2bded0cf264e3a14de714"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"sari.halkosaari@pp.inet.fi","username":"suvikukka"}
+{"_id":{"$oid":"54b6bad20cf264e3a14de9d7"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":198,"aerk":141,"anaerk":175},"email":"grammond@windowslive.com","username":"Gramo"}
+{"_id":{"$oid":"54bcf2290cf2d3ad4196f1ac"},"profile":{"goals":"","synopsis":"Kaikki vie eteenpäin","resthr":42,"maxhr":192,"aerk":140,"anaerk":160},"email":"marjukka.honkavaara@gmail.com","username":"MaikaH"}
+{"_id":{"$oid":"54c4b9c30cf2c31586e58c07"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"punkariantti@gmail.com","username":"fillarantti"}
+{"_id":{"$oid":"54c50a1c0cf2c31586e58c67"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"piompu@suomi24.fi","username":"annetin"}
+{"_id":{"$oid":"54ce75820cf2c31586e59320"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"eetu.nordman@gmail.com","username":"Prince Imodium"}
+{"_id":{"$oid":"54ce84e50cf2c31586e5933d"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"rautiainen1988@gmail.com","username":"MP"}
+{"_id":{"$oid":"54cf31260cf2c31586e59381"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"minna.maki@hotmail.com","username":"Nannaree"}
+{"_id":{"$oid":"54d344c00cf2c31586e59652"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"vesa.kemppainen@iki.fi","username":"vkemp"}
+{"_id":{"$oid":"54e9bb470cf2c31586e5a334"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"pekkaniemela74@gmail.com","username":"Toppatakkiosasto"}
+{"_id":{"$oid":"54f0bc7c0cf2c31586e5a78f"},"profile":{"goals":"","synopsis":"","resthr":50,"maxhr":186,"aerk":null,"anaerk":null},"email":"lipponen.tanja@gmail.com","username":"tuutikki"}
+{"_id":{"$oid":"54f427890cf2c31586e5a9c3"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"f799853@trbvm.com","username":"f799853"}
+{"_id":{"$oid":"54f9f17c0cf2c31586e5ad2f"},"profile":{"goals":"","synopsis":"","resthr":38,"maxhr":185,"aerk":null,"anaerk":null},"email":"mmpilm@utu.fi","username":"Mauri"}
+{"_id":{"$oid":"550c15290cf260f41c0b9343"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jari.rosti@gmail.com","username":"jro2"}
+{"_id":{"$oid":"550f29df0cf260f41c0b953f"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"ari.herra@live.com","username":"AriHerra"}
+{"_id":{"$oid":"551a1b480cf260f41c0b9b3e"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"Jyri.siivonen@gmail.com","username":"JMMS"}
+{"_id":{"$oid":"55217a5c0cf260f41c0b9f40"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"pekka.niemela@helsinki.fi","username":"Pekkajn"}
+{"_id":{"$oid":"55242b7c0cf260f41c0ba0d9"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"petri.tikkanen1@gmail.com","username":"apetem"}
+{"_id":{"$oid":"5528194d0cf260f41c0ba2e7"},"profile":{"goals":"42195 -260518","synopsis":"Let us run with endurance the race set before us.","resthr":54,"maxhr":190,"aerk":null,"anaerk":null},"email":"maolvi7@gmail.com","username":"Merisusi"}
+{"_id":{"$oid":"552fb11f0cf260f41c0ba8a2"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"mari.k.toivonen@gmail.com","username":"Maniac"}
+{"_id":{"$oid":"553140c40cf260f41c0ba9aa"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"emilia_ka@hotmail.com","username":"Emilia"}
+{"_id":{"$oid":"5533af060cf260f41c0bab48"},"profile":{"goals":"Lake Biwa","synopsis":"http://lakebiwaproject.blogspot.fi/","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"ossi_peltoniemi@hotmail.com","username":"OAP"}
+{"_id":{"$oid":"553cd20a0cf290fcf4ecf47f"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"heikki.rissa@gmail.com","username":"köpsä"}
+{"_id":{"$oid":"5544bc9d0cf290fcf4ecf952"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"kari.kangas@pp4.inet.fi","username":"kangkari"}
+{"_id":{"$oid":"55472bef0cf290fcf4ecfb54"},"profile":{"goals":"aluksi per(u)skunnon palautus","synopsis":"","resthr":45,"maxhr":186,"aerk":null,"anaerk":null},"email":"tsivqdnil.rangar@gmail.com","username":"rvl"}
+{"_id":{"$oid":"554c96e10cf290fcf4ecfe8d"},"profile":{"goals":"","synopsis":"","resthr":55,"maxhr":182,"aerk":null,"anaerk":null},"email":"jukka.majander@ensto.com","username":"JMajander"}
+{"_id":{"$oid":"554c98810cf290fcf4ecfe8f"},"profile":{"goals":"","synopsis":"","resthr":46,"maxhr":165,"aerk":null,"anaerk":null},"email":"voutilainen.tuula@gmail.com","username":"voutitu"}
+{"_id":{"$oid":"557c91cc0cf2f18efcbf0d12"},"profile":{"goals":"Urheilla hyvän mielen ja läskin palamisen vuoksi. ","synopsis":"Fiiliksellä!","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"kassu1991@gmail.com","username":"katariina.murtolahti"}
+{"_id":{"$oid":"55827c260cf2f18efcbf1130"},"profile":{"goals":"","synopsis":"","resthr":53,"maxhr":197,"aerk":171,"anaerk":185},"email":"jenni.vapaaoksa@gmail.com","username":"JenniV"}
+{"_id":{"$oid":"5588ec890cf2e6864d1a6e83"},"profile":{"goals":"","synopsis":"","resthr":62,"maxhr":196,"aerk":null,"anaerk":null},"email":"Katja.kujo@hotmail.com","username":"Kukkis"}
+{"_id":{"$oid":"558977510cf2e6864d1a6f00"},"profile":{"goals":"Päästä liikkumaan","synopsis":"Aikuisiällä vielä kisakuntoon","resthr":57,"maxhr":185,"aerk":null,"anaerk":null},"email":"paavohakkarainen@hotmail.com","username":"Pantse"}
+{"_id":{"$oid":"558d4ac40cf2e6864d1a7150"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"harzamaatta@gmail.com","username":"harzamaatta"}
+{"_id":{"$oid":"5597c0e90cf2e6864d1a7763"},"profile":{"goals":"18/37/82/175","synopsis":"Kymmenen kiloa pois","resthr":32,"maxhr":185,"aerk":145,"anaerk":168},"email":"tpackalen@hotmail.com","username":"Common crane"}
+{"_id":{"$oid":"55a2a9bf0cf2e6864d1a7d4e"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"ihanaelina@gmail.com","username":"Ihana"}
+{"_id":{"$oid":"55ad2bf80cf2e6864d1a8302"},"profile":{"goals":"","synopsis":"","resthr":45,"maxhr":184,"aerk":null,"anaerk":null},"email":"tuomas.viskari@gmail.com","username":"Viskis"}
+{"_id":{"$oid":"55ae41820cf2e6864d1a83a8"},"profile":{"goals":"","synopsis":"","resthr":65,"maxhr":161,"aerk":null,"anaerk":null},"email":"maija-liisa.kangassalo@kolumbus.fi","username":"MaijaMummeli"}
+{"_id":{"$oid":"55b4cbfc0cf2e6864d1a868c"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"heikki.rissa@gmail.com","username":"hidas"}
+{"_id":{"$oid":"55c04ab60cf2e6864d1a8d61"},"profile":{"goals":"Maratonilla 3:20 alitus, puolikkaalla 1:35 alitus, 10km@42m","synopsis":"\"A goal without a plan is just a wish.\"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"savolanlotta@gmail.com","username":"Lottis"}
+{"_id":{"$oid":"55daf46a0cf2e6864d1a9b80"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"josekuu@gmail.com","username":"ellu74"}
+{"_id":{"$oid":"55f533230cf25494a6398758"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jani.rintala@saunalahti.fi","username":"Tiger From K"}
+{"_id":{"$oid":"560263c00cf25494a6398e35"},"profile":{"goals":"IM2017","synopsis":"I paid for this","resthr":42,"maxhr":192,"aerk":145,"anaerk":166},"email":"ferrix@ferrix.fi","username":"ferrix"}
+{"_id":{"$oid":"56026dca0cf25494a6398e3c"},"profile":{"goals":"Kehittyä maastopyöräilijänä","synopsis":"Pyörällä päästään","resthr":49,"maxhr":191,"aerk":145,"anaerk":175},"email":"mikko.takkinen@netti.fi","username":"akumatias"}
+{"_id":{"$oid":"56028ee70cf25494a6398e59"},"profile":{"goals":"100km 2017","synopsis":"Pikkulenkin jos kävis vaan.","resthr":48,"maxhr":191,"aerk":null,"anaerk":null},"email":"jukka.saily@gmail.com","username":"Juutas"}
+{"_id":{"$oid":"560f88f30cf25494a63994c0"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"jyrvir@gmail.com","username":"2015runner"}
+{"_id":{"$oid":"56156e7e0cf25494a639983b"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jarnomake@luukku.com","username":"jarnomake"}
+{"_id":{"$oid":"561648b80cf25494a6399873"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"evilhypnotist@gmail.com","username":"kyrpis"}
+{"_id":{"$oid":"561930180cf2efcb581a9fe7"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"satsa1@luukku.com","username":"rauha"}
+{"_id":{"$oid":"561930180cf2efcb581a9fe8"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"satsa1@luukku.com","username":"rauha"}
+{"_id":{"$oid":"561a149f0cf2efcb581aa086"},"profile":{"goals":"","synopsis":"Eteenpäin! ","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"msairane@hotmail.com","username":"msai"}
+{"_id":{"$oid":"561df0a80cf2efcb581aa2a6"},"profile":{"goals":"kiinteytyminen ja lihasmassa","synopsis":"If I don't prioritize my life, someone else will","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"sjogren.henna@gmail.com","username":"sjoghe"}
+{"_id":{"$oid":"56223df30cf2efcb581aa436"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"pariskunta84@luukku.com","username":"parkunta"}
+{"_id":{"$oid":"5623584f0cf2efcb581aa4a3"},"profile":{"goals":"","synopsis":"","resthr":60,"maxhr":174,"aerk":null,"anaerk":null},"email":"susanna.lemmetti@gmail.com","username":"susannaL"}
+{"_id":{"$oid":"562a13790cf2efcb581aa832"},"profile":{"goals":"","synopsis":"","resthr":0,"maxhr":0,"aerk":null,"anaerk":null},"email":"pia.aaltonen@suomi24.fi","username":"Pia-maria"}
+{"_id":{"$oid":"562f15cc0cf2efcb581aaae4"},"profile":{"goals":"Kuntoilu pitää virkeänä","synopsis":"Kuntoon ilon kautta","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"tuneppi@gmail.com","username":"Tuneppi"}
+{"_id":{"$oid":"56333b050cf2efcb87bbe072"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"tiiaraisanen@ymail.com","username":"terhakka"}
+{"_id":{"$oid":"56333b060cf2efcb87bbe073"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"tiiaraisanen@ymail.com","username":"terhakka"}
+{"_id":{"$oid":"563494b20cf2efcb87bbe106"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jouni.koskela@edu.hel.fi","username":"GSX"}
+{"_id":{"$oid":"5634ad110cf2efcb87bbe117"},"profile":{"goals":"","synopsis":"","resthr":33,"maxhr":192,"aerk":null,"anaerk":null},"email":"pyry.ilmarinen@netti.fi","username":"Bala"}
+{"_id":{"$oid":"5635b48f0cf2efcb87bbe19a"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jaakko@kallio.org","username":"jaakkokallio"}
+{"_id":{"$oid":"563608ab0cf2efcb87bbe1dd"},"profile":{"goals":"Maraton alle 4 tuntia","synopsis":"","resthr":45,"maxhr":180,"aerk":null,"anaerk":null},"email":"hanna.oivanen@stat.fi","username":"Hattiwatti"}
+{"_id":{"$oid":"56363d6c0cf2efcb87bbe230"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"satuvesala78@googlemail.com","username":"SatuVesa"}
+{"_id":{"$oid":"56373ff30cf2efcb87bbe2d3"},"profile":{"goals":"","synopsis":"","resthr":35,"maxhr":190,"aerk":null,"anaerk":null},"email":"tuomas.pelto@gmail.com","username":"Foottalk"}
+{"_id":{"$oid":"563b060f0cf2efcb87bbe586"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"hartonenharri@gmail.com","username":"HaPa"}
+{"_id":{"$oid":"56404d2b0cf2efcb87bbe8af"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"laura.salminen@raute.com","username":"salmlau"}
+{"_id":{"$oid":"564093b60cf2efcb87bbe8cf"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"tsormunen@gmail.com","username":"timoso"}
+{"_id":{"$oid":"56417dea0cf2efcb87bbe956"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"reijo.sinisalo@netti.fi","username":"reijo s"}
+{"_id":{"$oid":"56418a5b0cf2efcb87bbe95d"},"profile":{"goals":"","synopsis":"","resthr":60,"maxhr":175,"aerk":null,"anaerk":null},"email":"arto.huusko@raute.com","username":"HuusAr"}
+{"_id":{"$oid":"5641a9130cf2efcb87bbe96c"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"mika.hyysti@raute.com","username":"hyysmi"}
+{"_id":{"$oid":"5641bcb50cf2efcb87bbe97a"},"profile":{"goals":"","synopsis":"","resthr":52,"maxhr":180,"aerk":null,"anaerk":null},"email":"karitakoski1@gmail.com","username":"Kartsu"}
+{"_id":{"$oid":"56421a020cf2efcb87bbe9a0"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":196,"aerk":null,"anaerk":null},"email":"piompu@suomi24.fi","username":"Annetinn"}
+{"_id":{"$oid":"564418e90cf2efcb87bbeaf7"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jyrki.karppinen@raute.com","username":"KarpJy"}
+{"_id":{"$oid":"564c09950cf2efcb87bbef9d"},"profile":{"goals":"Kunnon kohotus","synopsis":"","resthr":52,"maxhr":180,"aerk":null,"anaerk":null},"email":"harri.hiltunen@raute.com","username":"Hartsa 50"}
+{"_id":{"$oid":"564d88f10cf2efcb87bbf053"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":190,"aerk":null,"anaerk":null},"email":"samjantti@gmail.com","username":"Sanbo"}
+{"_id":{"$oid":"564ec8de0cf2efcb87bbf101"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"kaislaoja@gmail.com","username":"Jarkko Kaislaoja"}
+{"_id":{"$oid":"565b48a10cf2efcb87bbf7e6"},"profile":{"goals":"","synopsis":"Hitaasti hyvä tulee?! ","resthr":51,"maxhr":186,"aerk":155,"anaerk":165},"email":"elle.ahvonen@gmail.com","username":"EllenJ"}
+{"_id":{"$oid":"565c40d10cf2efcb87bbf850"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"tapani.tammelin@raute.com","username":"tammta"}
+{"_id":{"$oid":"566c28480cf2efcb87bbffa8"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"terhi.halonen@kotiposti.net","username":"terhihal"}
+{"_id":{"$oid":"566edb6e0cf2efcb87bc0136"},"profile":{"goals":"Ei olla viimenen Rauten km-kisassa","synopsis":"creme brulë","resthr":39,"maxhr":195,"aerk":155,"anaerk":175},"email":"antti.komulainen@raute.com","username":"antik6muline"}
+{"_id":{"$oid":"56770c6c0cf27a9de6288296"},"profile":{"goals":"","synopsis":"","resthr":52,"maxhr":183,"aerk":147,"anaerk":173},"email":"sanna.etholen@netti.fi","username":"narsissi"}
+{"_id":{"$oid":"5677f2f60cf27a9de6288306"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jarmo.plattonen@raute.com","username":"platja-1"}
+{"_id":{"$oid":"56803b4a0cf2b311dfce7392"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"lea@casmitech.fi","username":"Lea82"}
+{"_id":{"$oid":"5680500c0cf2b311dfce73a6"},"profile":{"goals":"Hyvä terveyskunto","synopsis":"onnellinen olotila","resthr":52,"maxhr":172,"aerk":null,"anaerk":null},"email":"marittamaarit.tuominen@luukku.com","username":"marittamaarit.tuominen@luukku.com"}
+{"_id":{"$oid":"568052db0cf2b311dfce73a7"},"profile":{"goals":"","synopsis":"","resthr":44,"maxhr":192,"aerk":null,"anaerk":null},"email":"mi.keskitalo@gmail.com","username":"Mikke"}
+{"_id":{"$oid":"568055c10cf2b311dfce73a8"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":211,"aerk":153,"anaerk":183},"email":"alex.barta@elisanet.fi","username":"abarta"}
+{"_id":{"$oid":"5680f02f0cf2b311dfce73c7"},"profile":{"goals":"Marcialonga","synopsis":"Make your day!","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"tomi.iivonen@raute.com","username":"iivoto"}
+{"_id":{"$oid":"5682b11b0cf2b311dfce74dc"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"markku.malin@raute.com","username":"malima"}
+{"_id":{"$oid":"5684c5130cf22eafda1d15b9"},"profile":{"goals":"","synopsis":"","resthr":58,"maxhr":175,"aerk":null,"anaerk":null},"email":"arto.huusko@raute.com","username":"2214"}
+{"_id":{"$oid":"56869a060cf22eafda1d16f7"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"hannele.kojo@luukku.com","username":"LassiHo"}
+{"_id":{"$oid":"568abbf60cf28f4fc824cde3"},"profile":{"goals":"","synopsis":"","resthr":60,"maxhr":178,"aerk":null,"anaerk":null},"email":"peskikumpu@hotmail.fi","username":"Sini-Pilvi"}
+{"_id":{"$oid":"568bb34c0cf276cd4ca943d5"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"timo.valttila@raute.com","username":"timovalttila"}
+{"_id":{"$oid":"568e70280cf276cd4ca94532"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"mrloirot@hotmail.com","username":"Filbert"}
+{"_id":{"$oid":"569010f60cf276cd4ca94676"},"profile":{"goals":"Kuha urheilen","synopsis":"Istumatyö vaatii raskaat huvit.","resthr":68,"maxhr":192,"aerk":152,"anaerk":172},"email":"terhi.latvala@kotikone.fi","username":"tlat"}
+{"_id":{"$oid":"569275c10cf29d4a93495e6e"},"profile":{"goals":"","synopsis":"","resthr":55,"maxhr":197,"aerk":153,"anaerk":176},"email":"eeva-liisa.holmstrom@hotmail.com","username":"EevaLiisaHoo"}
+{"_id":{"$oid":"5693937e0cf29d4a93495f14"},"profile":{"goals":"100km alle 10h","synopsis":"Mitä pidempi matka sitä tyhmempi jätkä.","resthr":39,"maxhr":182,"aerk":null,"anaerk":null},"email":"janne.nurmi@iki.fi","username":"Nurja"}
+{"_id":{"$oid":"5694aea70cf219697093f6de"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"marjo.tuominen@raute.com","username":"marjo788"}
+{"_id":{"$oid":"56953f5a0cf219697093f75d"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"thantos87@gmail.com","username":"Thantos"}
+{"_id":{"$oid":"56961c900cf219697093f7e1"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"elisa.ekholm@pp5.inet.fi","username":"Elekh79"}
+{"_id":{"$oid":"5698ce290cf219697093f961"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"veli-matti.pajala@raute.com","username":"veeämpee"}
+{"_id":{"$oid":"56a218e30cf219697093ff15"},"profile":{"goals":"","synopsis":"","resthr":65,"maxhr":175,"aerk":135,"anaerk":155},"email":"kimmo.suomalainen@raute.com","username":"suomki"}
+{"_id":{"$oid":"56a5dd4e0cf219697094015c"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"teuvo.holopainen@raute.com","username":"HoloTe"}
+{"_id":{"$oid":"56aa6db60cf2196970940429"},"profile":{"goals":"","synopsis":"","resthr":45,"maxhr":196,"aerk":null,"anaerk":null},"email":"niko65@me.com","username":"Niko65"}
+{"_id":{"$oid":"56af0a0b0cf2196970940716"},"profile":{"goals":"Tri","synopsis":"Onnea ja tuskaa, tuskallista onnea","resthr":42,"maxhr":189,"aerk":null,"anaerk":null},"email":"pekka.y.vaisanen@gmail.com","username":"Vogon"}
+{"_id":{"$oid":"56b2fffd0cf281e6a569784f"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"timo.p.jaaskelainen@yit.fi","username":"Tiimuri"}
+{"_id":{"$oid":"56b3135d0cf281e6a5697857"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"markus.halmetoja@raute.com","username":"Maisteri"}
+{"_id":{"$oid":"56b5e53f0cf281e6a56979a9"},"profile":{"goals":"","synopsis":"","resthr":40,"maxhr":194,"aerk":null,"anaerk":null},"email":"Tuomas.keisteri@saunalahti.fi","username":"Alppilan Samooja"}
+{"_id":{"$oid":"56bf53080cf29b377923c244"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"sulosavolainen85@gmail.com","username":"ETANA"}
+{"_id":{"$oid":"56c19fda99324638c8ed61c3"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jari.rosti@gmail.com","username":"zxcv2"}
+{"_id":{"$oid":"56c1a2a699324638c8ed61c5"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jari.rosti@gmail.com","username":"zxcv3"}
+{"_id":{"$oid":"56c1a2c199324638c8ed61c6"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jari.rosti@gmail.com","username":"zxcv4"}
+{"_id":{"$oid":"56c37ba499324638c8ed62f7"},"profile":{"goals":"","synopsis":"Tuulta päin","resthr":67,"maxhr":178,"aerk":null,"anaerk":null},"email":"mirva.maatta@luukku.com","username":"mimaatta"}
+{"_id":{"$oid":"56c456b999324638c8ed635c"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"asko.patana@raute.com","username":"PataAs"}
+{"_id":{"$oid":"56c45aed99324638c8ed635d"},"profile":{"goals":"","synopsis":"","resthr":48,"maxhr":184,"aerk":null,"anaerk":null},"email":"asko.patana@raute.com","username":"Asko"}
+{"_id":{"$oid":"56c573dc99324638c8ed63e9"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jussi.ojalainen@raute.com","username":"jussi_"}
+{"_id":{"$oid":"56c5788a99324638c8ed63ed"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jja.auvinen@gmail.com","username":"JussiA"}
+{"_id":{"$oid":"56c7407599324638c8ed64ed"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"toni.karkinen@jippii.fi","username":"tonita"}
+{"_id":{"$oid":"56cc05e699324638c8ed6794"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"terotapio@hotmail.com","username":"Turox"}
+{"_id":{"$oid":"56d818be9932a0ec3164de3d"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"ilkka.kaartinen@raute.com","username":"Ile K"}
+{"_id":{"$oid":"56dab77399320e10be476bc2"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"marjo.jaakkola@raute.com","username":"marjo.jaakkola"}
+{"_id":{"$oid":"56f8160b99320e10a1fd7eda"},"profile":{"goals":"Pysyä hyvässä kunnossa","synopsis":"Elämäntapaliikkuja ja liikuttaja","resthr":38,"maxhr":165,"aerk":null,"anaerk":null},"email":"harri.mannermaa@kolumbus.fi","username":"Marski"}
+{"_id":{"$oid":"56fbbea799324d4e39458d6f"},"profile":{"goals":"","synopsis":"","resthr":47,"maxhr":182,"aerk":130,"anaerk":160},"email":"jatami@utu.fi","username":"jannevaro"}
+{"_id":{"$oid":"56fbd9e899324d4e39458d7e"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"ari.kaivolainen@phnet.fi","username":"arska"}
+{"_id":{"$oid":"56fcbb7b99324d4e39458e29"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"Jani.maukonen@gmail.com","username":"jmaukka"}
+{"_id":{"$oid":"571896e499324d4e39459c77"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"erkki.pakkila@lehto.fi","username":"Ernesti"}
+{"_id":{"$oid":"571e033d99324d4e39459f5d"},"profile":{"goals":"","synopsis":"","resthr":48,"maxhr":194,"aerk":151,"anaerk":170},"email":"jkanerva@kolumbus.fi","username":"JuhaK"}
+{"_id":{"$oid":"571e19c999324d4e39459f65"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"erkki.pakkila@lehto.fi","username":"Eki"}
+{"_id":{"$oid":"5720e8d299324d4e3945a0ae"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"panu.parviainen@gmail.com","username":"Papu"}
+{"_id":{"$oid":"572c71b399324d4e3945a6e5"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"saila.uusikangas@gmail.com","username":"sailauu"}
+{"_id":{"$oid":"5758f784993221dd7f857c03"},"profile":{"goals":"","synopsis":"","resthr":50,"maxhr":185,"aerk":null,"anaerk":null},"email":"soile.hietikko@gmail.com","username":"Soikku"}
+{"_id":{"$oid":"57702ba2993221dd7f858624"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"satu_liljegren@hotmail.com","username":"satsa"}
+{"_id":{"$oid":"577c098f993221dd7f858bf1"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"jukpekli@gmail.com","username":"metsänpoika"}
+{"_id":{"$oid":"57952abb993221dd7f8596aa"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"marjut.merikallio@gmail.com","username":"Olga61"}
+{"_id":{"$oid":"57a0d06699325edee8705bc3"},"profile":{"goals":"","synopsis":"","resthr":50,"maxhr":162,"aerk":null,"anaerk":null},"email":"tauno.tiittanen@outlook.com","username":"Tauno"}
+{"_id":{"$oid":"57a2196399325edee8705c55"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"timo_tuomala@hotmail.com","username":"timopt"}
+{"_id":{"$oid":"57d77b9099325edee8707300"},"profile":{"goals":"","synopsis":"","resthr":57,"maxhr":204,"aerk":155,"anaerk":179},"email":"joona.a.niemi@gmail.com","username":"jniemi"}
+{"_id":{"$oid":"57d96f5099325edee87073f9"},"profile":{"goals":"Kokeilla miten kovaa pääsen maratonilla ja lyhyemmilläkin.","synopsis":"Juosten olen jo perillä.","resthr":null,"maxhr":185,"aerk":null,"anaerk":null},"email":"salla.tuomola@gmail.com","username":"Salsabarilla"}
+{"_id":{"$oid":"57da187299325edee870743c"},"profile":{"goals":"maraton","synopsis":"Run while you can","resthr":61,"maxhr":185,"aerk":null,"anaerk":null},"email":"n_torvinen@hotmail.com","username":"Ninakaisa"}
+{"_id":{"$oid":"57da234d99325edee8707441"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"ovasjar@gmail.com","username":"ovasjar"}
+{"_id":{"$oid":"57e160ba99325edee8707718"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":171,"aerk":null,"anaerk":null},"email":"Tiinakaisa.isolammi@gmail.com","username":"tiinakaisa"}
+{"_id":{"$oid":"57e1ae5699325edee8707769"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"arto.enckell@gmail.com","username":"MilesW"}
+{"_id":{"$oid":"57e6b50e99325edee8707924"},"profile":{"goals":"","synopsis":"","resthr":46,"maxhr":179,"aerk":null,"anaerk":null},"email":"katja.suneli@gmail.com","username":"Kaisa"}
+{"_id":{"$oid":"5809c0c099325edee8708641"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"joni.oilinki@gmail.com","username":"joni.oilinki@gmail.com"}
+{"_id":{"$oid":"5816cdf29932a08ebc358546"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"ulla.luokkanen@gmail.com","username":"Ummstein"}
+{"_id":{"$oid":"5818469c9932a08ebc3585b9"},"profile":{"goals":"","synopsis":"","resthr":50,"maxhr":170,"aerk":null,"anaerk":null},"email":"paivi.aapro@kolumbus.fi","username":"Terästaskuraketti"}
+{"_id":{"$oid":"58190b149932a08ebc358645"},"profile":{"goals":"","synopsis":"","resthr":54,"maxhr":185,"aerk":null,"anaerk":null},"email":"johannakela@yahoo.co.uk","username":"Annahoj"}
+{"_id":{"$oid":"581911e19932a08ebc358646"},"profile":{"goals":"","synopsis":"","resthr":35,"maxhr":192,"aerk":null,"anaerk":null},"email":"kauniskatto@gmail.com","username":"AlppilanSamooja"}
+{"_id":{"$oid":"581f63fa9932a08ebc358924"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":200,"aerk":161,"anaerk":181},"email":"naksteetti@gmail.com","username":"Aspe"}
+{"_id":{"$oid":"581f7d419932a08ebc35893a"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"antti.ronkko1@gmail.com","username":"liukasluikku2"}
+{"_id":{"$oid":"582867b99932a08ebc358d01"},"profile":{"goals":"","synopsis":"","resthr":50,"maxhr":192,"aerk":null,"anaerk":null},"email":"Cgothelid@gmail.com","username":"Carin"}
+{"_id":{"$oid":"58455b369932a08ebc35982e"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"kati.salonranta@welho.com","username":"Kati"}
+{"_id":{"$oid":"585439b99932a08ebc359d77"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":166,"anaerk":180},"email":"kaisu.suopanki@gmail.com","username":"Kaisu"}
+{"_id":{"$oid":"585689969932a08ebc359e4b"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"pentti.y@luukku.com","username":"pentti"}
+{"_id":{"$oid":"58583c679932a08ebc359ed9"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"mervi.rosten@gmail.com","username":"Memme"}
+{"_id":{"$oid":"5858e9879932a08ebc359ef5"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"Tuire.jantti@gmail.com","username":"Tuike"}
+{"_id":{"$oid":"586102fe9932a08ebc35a160"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"Marianne.pinnola@salo.fi","username":"Mapi"}
+{"_id":{"$oid":"586501049932a08ebc35a33e"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"paivi.makela@huittinen.fi","username":"Paikkari"}
+{"_id":{"$oid":"58663c1f9932a08ebc35a3bc"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"janne.stahlstrom@tiileri.fi","username":"janne.stahlstrom@tiileri.fi"}
+{"_id":{"$oid":"586994719932a08ebc35a513"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"sanna.hyovela@lieto.fi","username":"sanna.hyovela"}
+{"_id":{"$oid":"586b1e339932a08ebc35a58d"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"lasse_huttunen@hotmail.com","username":"Hjuud"}
+{"_id":{"$oid":"586bf4149932a08ebc35a5fa"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jyri.kylmala@pp.inet.fi","username":"JyriJohannes"}
+{"_id":{"$oid":"5872b7c19932a08ebc35a923"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"Akmickwitz@icloud.com","username":"AnnaMi"}
+{"_id":{"$oid":"5875ded29932a08ebc35aa46"},"profile":{"goals":"Hampurin maratooni 2017","synopsis":"Tärkeintä on liike","resthr":56,"maxhr":184,"aerk":159,"anaerk":173},"email":"salla.tuomola@gmail.com","username":"Salla"}
+{"_id":{"$oid":"5875f2ec9932a08ebc35aa4e"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"akmickwitz@icloud.com","username":"Annamick"}
+{"_id":{"$oid":"58772ae79932a08ebc35aae5"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jouko.kononen@luja.fi","username":"jouko"}
+{"_id":{"$oid":"587bb9419932a08ebc35ad4c"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"lenkkeily3@gmail.com","username":"saartuu"}
+{"_id":{"$oid":"587c8deb9932a08ebc35ad9c"},"profile":{"goals":"","synopsis":"","resthr":52,"maxhr":192,"aerk":149,"anaerk":173},"email":"nikulasannam@gmail.com","username":"SannaNi"}
+{"_id":{"$oid":"587cfaf69932a08ebc35adc2"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"paivi.kippola@raahe.fi","username":"kedonanneli"}
+{"_id":{"$oid":"587db6679932a08ebc35ae05"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"pavel.smorodin@luja.fi","username":"Datsuk"}
+{"_id":{"$oid":"587df2409932a08ebc35ae22"},"profile":{"goals":"3:55","synopsis":"Iloa!","resthr":42,"maxhr":188,"aerk":153,"anaerk":173},"email":"antti.roysko@icloud.com","username":"AnttiR"}
+{"_id":{"$oid":"588df8709932a08ebc35b5b5"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"svante.karkkainen@me.com","username":"Svante "}
+{"_id":{"$oid":"58b72b729932a08ebc35c821"},"profile":{"goals":"Korkealle, kovemmin ja periksiantamatta👍","synopsis":"Perussuoritus ei riitä😊","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"tammiska@netti.fi","username":"Problems"}
+{"_id":{"$oid":"58b7e4d39932a08ebc35c848"},"profile":{"goals":"","synopsis":"Sukellus tuntemattomaan pitää mielen vinkeenä","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"rautareetta@gmail.com","username":"puolisukeltaja"}
+{"_id":{"$oid":"58ccf1619932a08ebc35d165"},"profile":{"goals":"Cph marathon","synopsis":"","resthr":40,"maxhr":181,"aerk":156,"anaerk":168},"email":"sofia.grew@gmail.com","username":"fua"}
+{"_id":{"$oid":"58db90b99932a08ebc35d7c5"},"profile":{"goals":"Nizza-Cannes 2017","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"ullawestermarck@gmail.com","username":"Ulla W"}
+{"_id":{"$oid":"58e400639932a08ebc35db08"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"marja.toytari@proliitto.fi","username":"Maheto"}
+{"_id":{"$oid":"590379ed9932a08ebc35e6a0"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"lauri.pakkila@gmail.com","username":"Larepak"}
+{"_id":{"$oid":"5908ccaa9932a08ebc35e8df"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"kirsikaarina@gmail.com","username":"Kipakka"}
+{"_id":{"$oid":"591450549932a08ebc35edc6"},"profile":{"goals":"Kehittyä vielä aikuisenakin","synopsis":"reenaa,niin kehityt","resthr":38,"maxhr":182,"aerk":138,"anaerk":163},"email":"taskinen.risto@dnainternet.net","username":"Herra67"}
+{"_id":{"$oid":"59212b4b9932a08ebc35f21e"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"anne.hartikainen@saunalahti.fi","username":"anhar"}
+{"_id":{"$oid":"5927e0169932a08ebc35f520"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"marianne.nyman@yle.fi","username":"NanneRun"}
+{"_id":{"$oid":"5934e8cf9932a08ebc35f9d7"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"timo.p.leppakorpi@gmail.com","username":"Mäkivetäjä"}
+{"_id":{"$oid":"595a0a3f9932a08ebc360690"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"ida-sofia.vesala@opuscapita.com","username":"Iitu"}
+{"_id":{"$oid":"595a6bcf9932a08ebc3606b6"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"kerttunu@gmail.com","username":"Keba"}
+{"_id":{"$oid":"595b88bf9932a08ebc360739"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"Joseph_kaki@hotmail.com","username":"Jkaki"}
+{"_id":{"$oid":"596285ab9932a08ebc3609bf"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"anutee@outlook.com","username":"anutee"}
+{"_id":{"$oid":"5970bf599932a08ebc360eab"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"veera.brusila@gmail.com","username":"suuri"}
+{"_id":{"$oid":"5975ad1e9932a08ebc361024"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"jani.ervasti@mail.com","username":"janiervasti"}
+{"_id":{"$oid":"598067199932a08ebc3613ee"},"profile":{"goals":"","synopsis":"","resthr":60,"maxhr":175,"aerk":null,"anaerk":null},"email":"jarkko.karkimaa@gmail.com","username":"Jarppa"}
+{"_id":{"$oid":"599c2a9b993215488e72816a"},"profile":{"goals":"","synopsis":"","resthr":57,"maxhr":204,"aerk":162,"anaerk":186},"email":"hotloo.xiranood@gmail.com","username":"Hotloo"}
+{"_id":{"$oid":"599dde13993215488e728256"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"kusumaa@gmail.com","username":"punt"}
+{"_id":{"$oid":"59e4c89c993215488e729aff"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":185,"aerk":146,"anaerk":170},"email":"henriksson.sanna.helena@gmail.com","username":"HimPura"}
+{"_id":{"$oid":"59e8bb17993215488e729c4c"},"profile":{"goals":"puolimaraton","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"decorationoflife@gmail.com","username":"Epe"}
+{"_id":{"$oid":"59f21ddd993215488e729f43"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"anne.lampilehto@luukku.com","username":"AnLam"}
+{"_id":{"$oid":"59f49492993215488e729fd2"},"profile":{"goals":"","synopsis":"Maratoonari. Muuten normaali status.","resthr":46,"maxhr":180,"aerk":144,"anaerk":166},"email":"karipikkarainen1964@gmail.com","username":"KariPi64"}
+{"_id":{"$oid":"59f5de29993215488e72a027"},"profile":{"goals":"Hampuri 29.4.","synopsis":"Pessimisti ei pety","resthr":null,"maxhr":184,"aerk":148,"anaerk":170},"email":"maija.vallinoja@gmail.com","username":"valde"}
+{"_id":{"$oid":"5a0b2bca9932c5f5294b0e77"},"profile":{"goals":"3.22","synopsis":"Maaliin vaikka väkisin ","resthr":50,"maxhr":175,"aerk":null,"anaerk":null},"email":"peter.blomster@elisanet.fi","username":"Masa Ihonen"}
+{"_id":{"$oid":"5a0d90089932c5f5294b0f76"},"profile":{"goals":"","synopsis":"Tehty treeni, paras treeni ja väsynyt koira, mukava koira.","resthr":40,"maxhr":184,"aerk":150,"anaerk":170},"email":"anumk.makinen@gmail.com","username":"AnuMä"}
+{"_id":{"$oid":"5a16e10c9932c5f5294b138a"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"karigardemeister@suomi24.fi","username":"rotikka"}
+{"_id":{"$oid":"5a3664779932c5f5294b1e31"},"profile":{"goals":"","synopsis":"","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"ilpo.kiuru@gmail.com","username":"Ilpo"}
+{"_id":{"$oid":"5a38d3da9932c5f5294b1ed7"},"profile":{"goals":"","synopsis":"","resthr":64,"maxhr":192,"aerk":null,"anaerk":null},"email":"vikram.kmth@gmail.com","username":"vik_kamath"}
+{"_id":{"$oid":"5a44e2129932c5f5294b22af"},"profile":{"goals":"JNR 12h / Marraskuu 2018","synopsis":"No Run No Fun","resthr":52,"maxhr":190,"aerk":140,"anaerk":163},"email":"teemu@vartiainen.eu","username":"dewabe"}
+{"_id":{"$oid":"5a4626a59932c5f5294b232d"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"eetu.myrskyla@gmail.com","username":"Myrskylä"}
+{"_id":{"$oid":"5a4641e39932c5f5294b233f"},"profile":{"goals":"","synopsis":"","resthr":42,"maxhr":189,"aerk":null,"anaerk":null},"email":"valido.don@gmail.com","username":"karvakäsi"}
+{"_id":{"$oid":"5a4648e29932c5f5294b2343"},"profile":{"goals":"","synopsis":"","resthr":48,"maxhr":184,"aerk":null,"anaerk":null},"email":"jkfriman@gmail.com","username":"jkfriman"}
+{"_id":{"$oid":"5a46712f9932c5f5294b235f"},"profile":{"goals":"","synopsis":"","resthr":60,"maxhr":205,"aerk":170,"anaerk":192},"email":"kaisa.pohjonen@iki.fi","username":"sunnis"}
+{"_id":{"$oid":"5a467d569932c5f5294b2371"},"profile":{"goals":"","synopsis":"","resthr":48,"maxhr":196,"aerk":null,"anaerk":null},"email":"ilkka.palola@gmail.com","username":"iljevitsh"}
+{"_id":{"$oid":"5a4680a19932c5f5294b237e"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"friida1@hotmail.com","username":"Löpare:)"}
+{"_id":{"$oid":"5a46daa89932c5f5294b2393"},"profile":{"goals":"","synopsis":"Höntsä","resthr":42,"maxhr":192,"aerk":null,"anaerk":null},"email":"sarinurmi@icloud.com","username":"NurmiS"}
+{"_id":{"$oid":"5a4a7da59932c5f5294b2544"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"kito101@suomi24.fi","username":"Toni K"}
+{"_id":{"$oid":"5a4b9c7e9932c5f5294b25a7"},"profile":{"goals":"","synopsis":"You just have to trust your own madness.","resthr":null,"maxhr":null,"aerk":null,"anaerk":null},"email":"jutta@kirkkala.fi","username":"JuttaK"}
+{"_id":{"$oid":"5a53d02a9932c5f5294b2913"},"profile":{"maxhr":{"$numberLong":"192"},"resthr":{"$numberLong":"42"}},"email":"ja.rirosti@gmail.com","username":"Sini-Sylvia"}
