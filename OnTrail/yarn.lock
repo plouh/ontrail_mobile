@@ -2280,6 +2280,11 @@ form-data@~2.3.2:
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
 
+fp-ts@^1.0.0, fp-ts@^1.11.0, fp-ts@^1.11.1:
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/fp-ts/-/fp-ts-1.11.1.tgz#72fe5e5bdc964254beec59df2ef213d79d636b9f"
+  integrity sha512-KB7le9x4F8oBTnKHTcnoOBQ2GeI7Vxwio3LLeKwYC49wfHSkWPkP5WAxn0qG5oO6KcH7HV+p2ricHkAlxye6BA==
+
 fragment-cache@^0.2.1:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/fragment-cache/-/fragment-cache-0.2.1.tgz#4290fad27f13e89be7f33799c6bc5a0abfff0d19"
@@ -2674,6 +2679,23 @@ invert-kv@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/invert-kv/-/invert-kv-1.0.0.tgz#104a8e4aaca6d3d8cd157a8ef8bfab2d7a3ffdb6"
   integrity sha1-EEqOSqym09jNFXqO+L+rLXo//bY=
+
+io-ts-types@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/io-ts-types/-/io-ts-types-0.4.0.tgz#c1f349b7f83543cc1c7b68f6176a8f2bd9f555d6"
+  integrity sha512-hXgxda7l9bOhuLPZ6ylP7GpA2R06c7ohmPFc954hKa1GFXFaZqD13YCDEmPPMWV+TVWLmxM4EaahsSqQiUMQ5g==
+  dependencies:
+    fp-ts "^1.0.0"
+    io-ts "^1.1.4"
+    monocle-ts "^1.0.0"
+    newtype-ts "^0.2.1"
+
+io-ts@^1.1.4, io-ts@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/io-ts/-/io-ts-1.4.1.tgz#7061d85a60dad3e7bbfa6679035d400a1302366e"
+  integrity sha512-jzOHbNMvXlHfF64Ik+WHQ0ZI7NqTrZQzh0YsWAM4lWBp3Sm/4wWZAMlsUtulNeEFSJsRUxeaYU/WhR2qFoLNXQ==
+  dependencies:
+    fp-ts "^1.0.0"
 
 is-accessor-descriptor@^0.1.6:
   version "0.1.6"
@@ -4050,6 +4072,13 @@ mkdirp@^0.5.0, mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
+monocle-ts@^1.0.0, monocle-ts@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/monocle-ts/-/monocle-ts-1.5.0.tgz#f0a4a4a8c4bacf945eed26ab0ee1dec4452195d0"
+  integrity sha512-b7cHFEX1ObB/Zm8SHd1eAtSRWKnEqeaH0/Ejd77TpdNQ64IpC5OeHL8lopONiBQkMvSdkVQ7hVdkzDlI5HjfgQ==
+  dependencies:
+    fp-ts "^1.11.0"
+
 morgan@^1.9.0:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/morgan/-/morgan-1.9.1.tgz#0a8d16734a1d9afbc824b99df87e738e58e2da59"
@@ -4116,6 +4145,14 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
   integrity sha1-KzJxhOiZIQEXeyhWP7XnECrNDKk=
+
+newtype-ts@^0.2.1:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/newtype-ts/-/newtype-ts-0.2.3.tgz#6beb9aaa89bb22b6c2334edea6b0a77055eac5ce"
+  integrity sha512-KeBauCvtReTRca1eHVmtgWRCjExDJM7R44P/hDy6j3pEWdUtNP00L3kMoP4xy52+EU9yKMdC6kUxowUIdPPg6A==
+  dependencies:
+    fp-ts "^1.0.0"
+    monocle-ts "^1.0.0"
 
 nice-try@^1.0.4:
   version "1.0.5"
