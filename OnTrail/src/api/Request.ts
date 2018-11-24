@@ -1,10 +1,8 @@
-import { Either, left, right } from 'fp-ts/lib/Either'
-import { IOEither } from 'fp-ts/lib/IOEither'
-import { TaskEither, tryCatch } from 'fp-ts/lib/TaskEither'
+import { Either } from 'fp-ts/lib/Either'
+import { tryCatch } from 'fp-ts/lib/TaskEither'
 import { ReaderTaskEither } from 'fp-ts/lib/ReaderTaskEither'
 import * as R from 'fp-ts/lib/Record'
 import { Lens } from 'monocle-ts'
-import { semigroupString } from 'fp-ts/lib/Semigroup'
 
 // import { querystring, _isEmpty } from './utils'
 
@@ -20,8 +18,12 @@ const querystring = (obj: Record<string, any>) =>
         (keyValue, acc) => `${keyValue}&${acc}`
     )
 
+export interface RequestConfig {
+  host: string
+}
+  
 export type IResp<T> = Either<Error, T>
-export type IReq<T> = TaskEither<Error, T>
+export type IReq<T> = ReaderTaskEither<RequestConfig, Error, T>
 export type RawRequest = IReq<Response>
 
 export enum LoginStatusReason { NotLoggedIn, AuthenticationRequired, LoginFailed, LoginError, ExistingAccount, NetworkError }
@@ -57,11 +59,12 @@ export const noop: RequestBuilder = (req: IRequest) => req
  * Sets a property inside a map in IRequest
  */
 // Merge existing param map with updated
-const extendParamsWith = (updated: IParamMap) => (existing: IParamMap) => R.getMonoid(semigroupString).concat(existing, updated)
+const extendParamsWith = (updated: IParamMap) => (existing: IParamMap) =>  ({ ...existing, ...updated })
 
 const queryLens = Lens.fromProp<IRequest, 'query'>('query')
 const headerLens = Lens.fromProp<IRequest, 'headers'>('headers')
 const bodyLens = Lens.fromProp<IRequest, 'body'>('body')
+
 
 /**
  * Appends or replaces query parameters from request
@@ -80,7 +83,10 @@ export class LoginError extends RemoteError {
   }
 }
 
-const send = (req: IRequest) => tryCatch(
+const send = (req: IRequest) => { 
+  console.log( `${req.method.toString()} ${req.host}${req.path}?${querystring(req.query)}`)
+
+  return tryCatch(
     () => fetch(`${req.host}${req.path}?${querystring(req.query)}`, {
             body: req.body,
             headers: R.toArray(req.headers)
@@ -88,7 +94,8 @@ const send = (req: IRequest) => tryCatch(
             method: req.method.toString()
         }),
     (reason: unknown) => reason as Error
-)
+  )
+}
 
 const Request = (method: HTTPMethod, path: string, host: string): IRequest => ({
   body: undefined,
@@ -102,16 +109,11 @@ const Request = (method: HTTPMethod, path: string, host: string): IRequest => ({
   query: {}
 })
 
-interface RequestConfig {
-    method: HTTPMethod,
-    host: string
-}
-
-export const request = (path: string, ...builders: RequestBuilder[]) => 
+export const request = (method: HTTPMethod) => (path: string, ...builders: RequestBuilder[]) => 
     new ReaderTaskEither<RequestConfig, Error, Response>(e => {
         const req = builders.reduce(
             (requestParams, builder) => builder(requestParams), // apply request builders one by one
-            Request(e.method, path, e.host)  // initial request
+            Request(method, path, e.host)  // initial request
           )
         
         return send(req)

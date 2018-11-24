@@ -1,5 +1,5 @@
 import { Either } from 'fp-ts/lib/Either'
-import { Option } from 'fp-ts/lib/Option'
+import { Option, none } from 'fp-ts/lib/Option'
 
 export interface ILogin {
   readonly authToken: string
